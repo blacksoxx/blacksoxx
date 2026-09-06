@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=DevOps+Engineer;Cloud+%26+Platform+Engineering;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+GitOps;Automating+all+the+things" alt="DevOps Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=DevOps+Engineer;Cloud+%26+Platform+Engineering;Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+GitOps;NVIDIA+GPU+Infrastructure+for+AI%2FML;Automating+all+the+things" alt="DevOps Engineer" />
 </a>
 
 <br />
@@ -25,6 +25,7 @@
 DevOps engineer based in Tunis, Tunisia. I build and automate cloud infrastructure across AWS, Azure, and GCP — infrastructure as code with Terraform and Ansible, container platforms on Kubernetes, GitOps delivery with ArgoCD, and observability with Grafana, Prometheus, and the ELK stack.
 
 - Currently working on cloud cost engineering (FinOps) and migration automation
+- Building and operating NVIDIA GPU infrastructure for AI/ML workloads — GPU-enabled Kubernetes nodes, driver and operator lifecycle, and utilization monitoring with DCGM
 - Comfortable across all three major clouds, with Terraform as the common thread
 - I like turning manual, error-prone ops work into pipelines that just run
 - Reach me on [LinkedIn](https://www.linkedin.com/in/youssef-omar-bouden-348b6a197/)
@@ -56,6 +57,16 @@ DevOps engineer based in Tunis, Tunisia. I build and automate cloud infrastructu
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+**GPU Infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/GPU%20Operator-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GPU Operator" />
+  <img src="https://img.shields.io/badge/Container%20Toolkit-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Container Toolkit" />
+  <img src="https://img.shields.io/badge/DCGM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA DCGM" />
 </p>
 
 **CI/CD & GitOps**
