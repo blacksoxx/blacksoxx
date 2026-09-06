@@ -22,7 +22,7 @@
 
 ## About
 
-DevOps engineer based in Tunis, Tunisia. I build and automate cloud infrastructure across AWS, Azure, and GCP — infrastructure as code with Terraform, container platforms on Kubernetes, GitOps delivery with ArgoCD, and observability with Grafana and Prometheus.
+DevOps engineer based in Tunis, Tunisia. I build and automate cloud infrastructure across AWS, Azure, and GCP — infrastructure as code with Terraform and Ansible, container platforms on Kubernetes, GitOps delivery with ArgoCD, and observability with Grafana, Prometheus, and the ELK stack.
 
 - Currently working on cloud cost engineering (FinOps) and migration automation
 - Comfortable across all three major clouds, with Terraform as the common thread
@@ -42,10 +42,11 @@ DevOps engineer based in Tunis, Tunisia. I build and automate cloud infrastructu
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
 </p>
 
-**Infrastructure as Code**
+**Infrastructure as Code & Configuration Management**
 
 <p>
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kustomize" />
 </p>
@@ -65,11 +66,14 @@ DevOps engineer based in Tunis, Tunisia. I build and automate cloud infrastructu
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-**Observability**
+**Observability & Logging**
 
 <p>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" alt="Logstash" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
 </p>
 
 **Languages**
