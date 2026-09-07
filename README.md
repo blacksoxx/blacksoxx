@@ -26,6 +26,7 @@ DevOps engineer based in Tunis, Tunisia. I build and automate cloud infrastructu
 
 - Currently working on cloud cost engineering (FinOps) and migration automation
 - Building and operating NVIDIA GPU infrastructure for AI/ML workloads — GPU-enabled Kubernetes nodes, driver and operator lifecycle, and utilization monitoring with DCGM
+- Shifting security left in CI/CD — image and IaC scanning with Trivy, static analysis with SonarQube, and centralized secrets management with Infisical
 - Comfortable across all three major clouds, with Terraform as the common thread
 - I like turning manual, error-prone ops work into pipelines that just run
 - Reach me on [LinkedIn](https://www.linkedin.com/in/youssef-omar-bouden-348b6a197/)
@@ -56,6 +57,7 @@ DevOps engineer based in Tunis, Tunisia. I build and automate cloud infrastructu
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
@@ -77,6 +79,14 @@ DevOps engineer based in Tunis, Tunisia. I build and automate cloud infrastructu
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+**Security & DevSecOps**
+
+<p>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqubeserver&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Infisical-1F1F1F?style=for-the-badge&logoColor=white" alt="Infisical" />
+</p>
+
 **Observability & Logging**
 
 <p>
@@ -85,6 +95,7 @@ DevOps engineer based in Tunis, Tunisia. I build and automate cloud infrastructu
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
   <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" alt="Logstash" />
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
 </p>
 
 **Languages**
