@@ -22,10 +22,10 @@
 
 ## About
 
-DevOps engineer based in Tunis, Tunisia. I build and automate cloud infrastructure across AWS, Azure, and GCP — infrastructure as code with Terraform and Ansible, container platforms on Kubernetes, GitOps delivery with ArgoCD, and observability with Grafana, Prometheus, and the ELK stack.
+DevOps engineer based in Tunis, Tunisia. I build and automate infrastructure across AWS, Azure, and GCP, as well as private cloud on OpenStack and VMware — infrastructure as code with Terraform and Ansible, container platforms on Kubernetes, GitOps delivery with ArgoCD, and observability with Grafana, Prometheus, and the ELK stack.
 
 - Currently working on cloud cost engineering (FinOps) and migration automation
-- Building and operating NVIDIA GPU infrastructure for AI/ML workloads — GPU-enabled Kubernetes nodes, driver and operator lifecycle, and utilization monitoring with DCGM
+- Building and operating GPU infrastructure for AI/ML workloads on both NVIDIA and AMD — GPU-enabled Kubernetes nodes, driver and operator lifecycle, and utilization monitoring with DCGM
 - Shifting security left in CI/CD — image and IaC scanning with Trivy, static analysis with SonarQube, and centralized secrets management with Infisical
 - Comfortable across all three major clouds, with Terraform as the common thread
 - I like turning manual, error-prone ops work into pipelines that just run
@@ -41,6 +41,12 @@ DevOps engineer based in Tunis, Tunisia. I build and automate cloud infrastructu
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+</p>
+
+**Private Cloud & On-Prem**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
 </p>
 
@@ -61,7 +67,7 @@ DevOps engineer based in Tunis, Tunisia. I build and automate cloud infrastructu
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
-**GPU Infrastructure**
+**AI Infrastructure**
 
 <p>
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
@@ -69,6 +75,8 @@ DevOps engineer based in Tunis, Tunisia. I build and automate cloud infrastructu
   <img src="https://img.shields.io/badge/GPU%20Operator-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GPU Operator" />
   <img src="https://img.shields.io/badge/Container%20Toolkit-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Container Toolkit" />
   <img src="https://img.shields.io/badge/DCGM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA DCGM" />
+  <img src="https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD" />
+  <img src="https://img.shields.io/badge/ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD ROCm" />
 </p>
 
 **CI/CD & GitOps**
