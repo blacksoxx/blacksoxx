@@ -124,7 +124,7 @@ DevOps engineer based in Tunis, Tunisia. I build and automate cloud infrastructu
 
 <br />
 
-<img width="88%" src="https://streak-stats.demolab.com?user=blacksoxx&hide_border=true&theme=tokyonight&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub streak" />
+<img width="88%" src="./profile/streak.svg" alt="GitHub streak" />
 
 </div>
 
