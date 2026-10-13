@@ -139,6 +139,45 @@ DevOps engineer based in Tunis, Tunisia. I build and automate infrastructure acr
 
 ---
 
+## Open Source Contributions
+
+<!-- OSS-CONTRIBUTIONS:START -->
+
+**44 pull requests across 32 open source projects** &nbsp;·&nbsp; 8 merged &nbsp;·&nbsp; 36 in review
+
+| Project | Stars | Merged | In review |
+| --- | ---: | ---: | ---: |
+| [llm-d/llm-d](https://github.com/llm-d/llm-d) | 4,816 | [4](https://github.com/llm-d/llm-d/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Amerged) | – |
+| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 399 | [2](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Amerged) | – |
+| [GoogleCloudPlatform/cluster-toolkit](https://github.com/GoogleCloudPlatform/cluster-toolkit) | 366 | [1](https://github.com/GoogleCloudPlatform/cluster-toolkit/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Amerged) | – |
+| [kubescape/prometheus-exporter](https://github.com/kubescape/prometheus-exporter) | 2 | [1](https://github.com/kubescape/prometheus-exporter/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Amerged) | – |
+| [pulumi/pulumi](https://github.com/pulumi/pulumi) | 25,785 | – | [6](https://github.com/pulumi/pulumi/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [linkerd/linkerd2](https://github.com/linkerd/linkerd2) | 11,513 | – | [1](https://github.com/linkerd/linkerd2/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [loft-sh/vcluster](https://github.com/loft-sh/vcluster) | 11,347 | – | [1](https://github.com/loft-sh/vcluster/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) | 9,877 | – | [1](https://github.com/gruntwork-io/terragrunt/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) | 5,706 | – | [1](https://github.com/kgateway-dev/kgateway/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [argoproj/argo-events](https://github.com/argoproj/argo-events) | 2,701 | – | [1](https://github.com/argoproj/argo-events/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [hashicorp/terraform-ls](https://github.com/hashicorp/terraform-ls) | 1,206 | – | [2](https://github.com/hashicorp/terraform-ls/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [GoogleCloudPlatform/k8s-config-connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) | 1,071 | – | [1](https://github.com/GoogleCloudPlatform/k8s-config-connector/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [gophercloud/gophercloud](https://github.com/gophercloud/gophercloud) | 1,014 | – | [1](https://github.com/gophercloud/gophercloud/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws) | 730 | – | [1](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [awslabs/automated-security-helper](https://github.com/awslabs/automated-security-helper) | 703 | – | [1](https://github.com/awslabs/automated-security-helper/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) | 513 | – | [2](https://github.com/hashicorp/terraform-provider-vault/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [crossplane/upjet](https://github.com/crossplane/upjet) | 482 | – | [1](https://github.com/crossplane/upjet/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [aws/smithy-go](https://github.com/aws/smithy-go) | 257 | – | [1](https://github.com/aws/smithy-go/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [jaegertracing/jaeger-idl](https://github.com/jaegertracing/jaeger-idl) | 104 | – | [1](https://github.com/jaegertracing/jaeger-idl/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [aws-controllers-k8s/rds-controller](https://github.com/aws-controllers-k8s/rds-controller) | 103 | – | [1](https://github.com/aws-controllers-k8s/rds-controller/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [FluidifyAI/Regen](https://github.com/FluidifyAI/Regen) | 87 | – | [1](https://github.com/FluidifyAI/Regen/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [turbot/steampipe-mod-azure-compliance](https://github.com/turbot/steampipe-mod-azure-compliance) | 61 | – | [2](https://github.com/turbot/steampipe-mod-azure-compliance/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [k0sproject/rig](https://github.com/k0sproject/rig) | 53 | – | [1](https://github.com/k0sproject/rig/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+| [aws-controllers-k8s/eks-controller](https://github.com/aws-controllers-k8s/eks-controller) | 48 | – | [1](https://github.com/aws-controllers-k8s/eks-controller/pulls?q=is%3Apr%20author%3Ablacksoxx%20is%3Aopen) |
+
+<sub>…and 8 more projects.</sub>
+
+<!-- OSS-CONTRIBUTIONS:END -->
+
+---
+
 ## Featured Projects
 
 | Project | What it is | Stack |

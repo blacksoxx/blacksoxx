@@ -1,0 +1,41 @@
+name: Update OSS contributions
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  push:
+    paths:
+      - ".github/workflows/oss-contributions.yml"
+      - "scripts/update_oss_contributions.py"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate contributions section
+        env:
+          # Scoped to this repository, so it cannot read private repos in other
+          # orgs even if the search filter were ever loosened.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/update_oss_contributions.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet --cached && exit 0
+          git commit -m "Update open source contributions"
+          git pull --rebase origin main
+          git push
