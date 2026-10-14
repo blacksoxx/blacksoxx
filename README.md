@@ -12,13 +12,16 @@ DevOps engineer in Tunis, Tunisia. I build cloud and GPU infrastructure for AI/M
 - Current focus: cloud cost engineering (FinOps), migration automation, and shifting security left in CI/CD with Trivy, SonarQube and Infisical.
 - Upstream, most of my work goes into [llm-d](https://github.com/llm-d), Kubernetes-native distributed inference, alongside fixes across the Kubernetes and cloud provider ecosystem.
 
-<!--
 ## Certifications
 
-The profile bio lists three AWS certifications. List them here with Credly links, for example:
+| Certification | Issuer | Issued |
+| --- | --- | --- |
+| AWS Certified Machine Learning Engineer – Associate | Amazon Web Services | Aug 2026 |
+| AWS Certified Solutions Architect – Associate | Amazon Web Services | Jan 2026 |
+| Aviatrix Certified Engineer, Multicloud Network Associate | Aviatrix | Aug 2025 |
+| AWS Certified Cloud Practitioner | Amazon Web Services | Mar 2025 |
 
-- AWS Certified Solutions Architect, Associate (Credly link)
--->
+Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-omar-bouden-348b6a197/details/certifications/).
 
 ## Open source
 
