@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210" role="img" aria-labelledby="title">
+<title id="title">Lines changed by language</title>
+<style>text{font-family:system-ui, -apple-system, "Segoe UI", sans-serif;}</style>
+<rect x="0.5" y="0.5" width="439" height="209" rx="8" fill="#fcfcfb" stroke="#0b0b0b" stroke-opacity="0.10"/>
+<text x="20" y="34" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="start">Lines changed by language</text>
+<line x1="182" y1="56" x2="182" y2="190" stroke="#c3c2b7"/>
+<text x="170" y="67" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Go</text>
+<path d="M182,56 h182 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-182 z" fill="#2a78d6"/>
+<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">955</text>
+<text x="170" y="97" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Markdown</text>
+<path d="M182,86 h31.0576 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-31.0576 z" fill="#2a78d6"/>
+<text x="225.058" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">180</text>
+<text x="170" y="127" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">YAML</text>
+<path d="M182,116 h24.6304 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-24.6304 z" fill="#2a78d6"/>
+<text x="218.63" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">147</text>
+<text x="170" y="157" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">HCL</text>
+<rect x="182" y="146" width="2" height="14" fill="#2a78d6"/>
+<text x="192" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
+<text x="170" y="187" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Python</text>
+<rect x="182" y="176" width="2" height="14" fill="#2a78d6"/>
+<text x="192" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
+</svg>

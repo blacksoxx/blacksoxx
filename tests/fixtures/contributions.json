@@ -1,0 +1,116 @@
+{
+  "user": "blacksoxx",
+  "generated_at": "2026-10-14T00:00:00Z",
+  "merged": [
+    {
+      "repo": "acme/widgets",
+      "number": 12,
+      "title": "fix(api): return <b>typed</b> errors | not strings",
+      "url": "https://github.com/acme/widgets/pull/12",
+      "created_at": "2026-10-01T10:00:00Z",
+      "merged_at": "2026-10-03T09:00:00Z"
+    },
+    {
+      "repo": "acme/widgets",
+      "number": 9,
+      "title": "docs: fix the quickstart",
+      "url": "https://github.com/acme/widgets/pull/9",
+      "created_at": "2026-09-20T10:00:00Z",
+      "merged_at": "2026-09-22T09:00:00Z"
+    },
+    {
+      "repo": "acme/gadgets",
+      "number": 4,
+      "title": "chore: pin the toolchain",
+      "url": "https://github.com/acme/gadgets/pull/4",
+      "created_at": "2026-09-28T10:00:00Z",
+      "merged_at": "2026-09-30T09:00:00Z"
+    }
+  ],
+  "open": [
+    {
+      "repo": "big/platform",
+      "number": 500,
+      "title": "feat: add a flag",
+      "url": "https://github.com/big/platform/pull/500",
+      "created_at": "2026-10-10T10:00:00Z"
+    },
+    {
+      "repo": "big/platform",
+      "number": 501,
+      "title": "fix: handle nil",
+      "url": "https://github.com/big/platform/pull/501",
+      "created_at": "2026-10-11T10:00:00Z"
+    },
+    {
+      "repo": "acme/gadgets",
+      "number": 5,
+      "title": "test: cover the retry path",
+      "url": "https://github.com/acme/gadgets/pull/5",
+      "created_at": "2026-10-12T10:00:00Z"
+    }
+  ],
+  "reviewed": [
+    {
+      "repo": "acme/widgets",
+      "number": 14,
+      "title": "perf: cache lookups",
+      "url": "https://github.com/acme/widgets/pull/14",
+      "created_at": "2026-10-05T10:00:00Z",
+      "author": "someone"
+    }
+  ],
+  "issues": [
+    {
+      "repo": "other/tool",
+      "number": 77,
+      "title": "CI fails on forks",
+      "url": "https://github.com/other/tool/issues/77",
+      "created_at": "2026-10-06T10:00:00Z",
+      "state": "open"
+    }
+  ],
+  "projects": {
+    "acme/widgets": {
+      "url": "https://github.com/acme/widgets",
+      "description": "Widgets",
+      "stars": 4825,
+      "merged": 2,
+      "open": 0,
+      "reviewed": 1,
+      "issues": 0
+    },
+    "acme/gadgets": {
+      "url": "https://github.com/acme/gadgets",
+      "description": "Gadgets",
+      "stars": 48,
+      "merged": 1,
+      "open": 1,
+      "reviewed": 0,
+      "issues": 0
+    },
+    "big/platform": {
+      "url": "https://github.com/big/platform",
+      "description": "Platform",
+      "stars": 25789,
+      "merged": 0,
+      "open": 2,
+      "reviewed": 0,
+      "issues": 0
+    },
+    "other/tool": {
+      "url": "https://github.com/other/tool",
+      "description": "Tool",
+      "stars": 1000,
+      "merged": 0,
+      "open": 0,
+      "reviewed": 0,
+      "issues": 1
+    }
+  },
+  "languages": {
+    "Go": 1200,
+    "Markdown": 300,
+    "YAML": 50
+  }
+}
