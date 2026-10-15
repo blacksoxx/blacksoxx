@@ -25,7 +25,7 @@
 <text x="170" y="247" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">helm-charts</text>
 <path d="M182,236 h42.5 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-42.5 z" fill="#3987e5"/>
 <text x="236.5" y="247" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
-<text x="170" y="277" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">prometheus-exporter</text>
+<text x="170" y="277" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">kubevuln</text>
 <path d="M182,266 h42.5 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-42.5 z" fill="#3987e5"/>
 <text x="236.5" y="277" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
 </svg>
