@@ -6,13 +6,13 @@
 <line x1="182" y1="56" x2="182" y2="190" stroke="#c3c2b7"/>
 <text x="170" y="67" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Go</text>
 <path d="M182,56 h182 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-182 z" fill="#2a78d6"/>
-<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1.7k</text>
+<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1.9k</text>
 <text x="170" y="97" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">YAML</text>
-<path d="M182,86 h21.563 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-21.563 z" fill="#2a78d6"/>
-<text x="215.563" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">239</text>
+<path d="M182,86 h19.3232 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-19.3232 z" fill="#2a78d6"/>
+<text x="213.323" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">239</text>
 <text x="170" y="127" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Markdown</text>
-<path d="M182,116 h17.6055 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-17.6055 z" fill="#2a78d6"/>
-<text x="211.606" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">202</text>
+<path d="M182,116 h15.7125 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-15.7125 z" fill="#2a78d6"/>
+<text x="209.712" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">202</text>
 <text x="170" y="157" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">HCL</text>
 <rect x="182" y="146" width="2" height="14" fill="#2a78d6"/>
 <text x="192" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>

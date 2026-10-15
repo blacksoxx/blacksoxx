@@ -8,8 +8,8 @@
 <path d="M182,56 h182 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-182 z" fill="#2a78d6"/>
 <text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">4</text>
 <text x="170" y="97" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">llm-d-router</text>
-<path d="M182,86 h135.5 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-135.5 z" fill="#2a78d6"/>
-<text x="329.5" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">3</text>
+<path d="M182,86 h182 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-182 z" fill="#2a78d6"/>
+<text x="376" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">4</text>
 <text x="170" y="127" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">operator</text>
 <path d="M182,116 h89 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-89 z" fill="#2a78d6"/>
 <text x="283" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
