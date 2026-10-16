@@ -16,16 +16,16 @@
 <text x="170" y="157" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">operator</text>
 <path d="M182,146 h89 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-89 z" fill="#2a78d6"/>
 <text x="283" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
-<text x="170" y="187" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">cluster-toolkit</text>
+<text x="170" y="187" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">gpushare-operator</text>
 <path d="M182,176 h42.5 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-42.5 z" fill="#2a78d6"/>
 <text x="236.5" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
-<text x="170" y="217" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">eks-controller</text>
+<text x="170" y="217" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">cluster-toolkit</text>
 <path d="M182,206 h42.5 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-42.5 z" fill="#2a78d6"/>
 <text x="236.5" y="217" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
-<text x="170" y="247" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">rds-controller</text>
+<text x="170" y="247" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">eks-controller</text>
 <path d="M182,236 h42.5 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-42.5 z" fill="#2a78d6"/>
 <text x="236.5" y="247" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
-<text x="170" y="277" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">kubevuln</text>
+<text x="170" y="277" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">rds-controller</text>
 <path d="M182,266 h42.5 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-42.5 z" fill="#2a78d6"/>
 <text x="236.5" y="277" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
 </svg>

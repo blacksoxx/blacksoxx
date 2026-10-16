@@ -29,13 +29,14 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-summary-dark.svg">
-  <img alt="Open source summary: 19 merged pull requests, 10 reviews, 4 issues opened, 11 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
+  <img alt="Open source summary: 21 merged pull requests, 10 reviews, 5 issues opened, 13 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
 </picture>
 
 ### Merged pull requests
 
 | Merged | Project | Pull request |
 | --- | --- | --- |
+| 2026-10-16 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | [Report an unknown drift status when drift detection has never run](https://github.com/pulumi/pulumi/pull/25172) |
 | 2026-10-16 | [kubescape/helm-charts](https://github.com/kubescape/helm-charts) | [feat(scheduler): create OperatorCommands instead of calling the operator trigger endpoint](https://github.com/kubescape/helm-charts/pull/964) |
 | 2026-10-15 | [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | [fix(epp): stop rejecting Anthropic blocks whose content is an object](https://github.com/llm-d/llm-d-router/pull/3459) |
 | 2026-10-15 | [kubescape/kubevuln](https://github.com/kubescape/kubevuln) | [fix(sbomscanner): report a sidecar lost under a running scan as a crash](https://github.com/kubescape/kubevuln/pull/1176) |
@@ -47,35 +48,35 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 | 2026-10-14 | [kubescape/operator](https://github.com/kubescape/operator) | [feat(restapi): make the trigger listener bind address configurable](https://github.com/kubescape/operator/pull/431) |
 | 2026-10-13 | [aws-controllers-k8s/eks-controller](https://github.com/aws-controllers-k8s/eks-controller) | [fix: skip upgradePolicy and component config updates when spec values are nil](https://github.com/aws-controllers-k8s/eks-controller/pull/262) |
 | 2026-10-13 | [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | [fix(coordinator): answer every inference rejection with the OpenAI error envelope](https://github.com/llm-d/llm-d-router/pull/3393) |
-| 2026-10-13 | [GoogleCloudPlatform/cluster-toolkit](https://github.com/GoogleCloudPlatform/cluster-toolkit) | [fix(gpu-rdma-vpc): drop the always-true null check on network_profile](https://github.com/GoogleCloudPlatform/cluster-toolkit/pull/6444) |
 
-<sub>[All 19 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
+<sub>[All 21 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
 
 ### Reviews and issues
 
 - Reviewed [10 pull requests](https://github.com/search?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx&type=pullrequests) in [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router).
-- Opened [4 issues](https://github.com/search?q=is%3Aissue+author%3Ablacksoxx+-user%3Ablacksoxx&type=issues) in [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router), [FluidifyAI/Regen](https://github.com/FluidifyAI/Regen) and [hashicorp/terraform-ls](https://github.com/hashicorp/terraform-ls).
+- Opened [5 issues](https://github.com/search?q=is%3Aissue+author%3Ablacksoxx+-user%3Ablacksoxx&type=issues) in [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router), [1devspace/gpushare-operator](https://github.com/1devspace/gpushare-operator), [FluidifyAI/Regen](https://github.com/FluidifyAI/Regen) and 1 more.
 
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-projects-dark.svg">
-  <img alt="Merged pull requests by project: llm-d/llm-d 4, llm-d/llm-d-router 4, kubescape/helm-charts 2, kubescape/operator 2, GoogleCloudPlatform/cluster-toolkit 1, aws-controllers-k8s/eks-controller 1, aws-controllers-k8s/rds-controller 1, kubescape/kubevuln 1, kubescape/prometheus-exporter 1, llm-d/llm-d-infra 1, pulumi/pulumi-kubernetes-operator 1" src="profile/oss-projects-light.svg" width="49%">
+  <img alt="Merged pull requests by project: llm-d/llm-d 4, llm-d/llm-d-router 4, kubescape/helm-charts 2, kubescape/operator 2, 1devspace/gpushare-operator 1, GoogleCloudPlatform/cluster-toolkit 1, aws-controllers-k8s/eks-controller 1, aws-controllers-k8s/rds-controller 1, kubescape/kubevuln 1, kubescape/prometheus-exporter 1, llm-d/llm-d-infra 1, pulumi/pulumi 1, pulumi/pulumi-kubernetes-operator 1" src="profile/oss-projects-light.svg" width="49%">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-languages-dark.svg">
-  <img alt="Lines changed by language in merged pull requests: Go 1.9k, YAML 823, Markdown 206, Shell 68, HCL 2, Python 1" src="profile/oss-languages-light.svg" width="49%">
+  <img alt="Lines changed by language in merged pull requests: Go 2.1k, YAML 846, Markdown 215, Shell 68, HCL 2, Python 1" src="profile/oss-languages-light.svg" width="49%">
 </picture>
 </p>
 
 <details>
-<summary>All 43 projects, including 43 open pull requests</summary>
+<summary>All 44 projects, including 42 open pull requests</summary>
 
 | Project | Stars | Merged | Reviewed | Open |
 | --- | ---: | ---: | ---: | ---: |
-| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 411 | [4](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [10](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 412 | [4](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [10](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [llm-d/llm-d](https://github.com/llm-d/llm-d) | 4.8k | [4](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [kubescape/helm-charts](https://github.com/kubescape/helm-charts) | 42 | [2](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [kubescape/operator](https://github.com/kubescape/operator) | 24 | [2](https://github.com/kubescape/operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
+| [pulumi/pulumi](https://github.com/pulumi/pulumi) | 25.8k | [1](https://github.com/pulumi/pulumi/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [6](https://github.com/pulumi/pulumi/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [GoogleCloudPlatform/cluster-toolkit](https://github.com/GoogleCloudPlatform/cluster-toolkit) | 367 | [1](https://github.com/GoogleCloudPlatform/cluster-toolkit/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) | 293 | [1](https://github.com/pulumi/pulumi-kubernetes-operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [aws-controllers-k8s/rds-controller](https://github.com/aws-controllers-k8s/rds-controller) | 103 | [1](https://github.com/aws-controllers-k8s/rds-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [1](https://github.com/aws-controllers-k8s/rds-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
@@ -83,7 +84,7 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 | [kubescape/kubevuln](https://github.com/kubescape/kubevuln) | 26 | [1](https://github.com/kubescape/kubevuln/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [kubescape/prometheus-exporter](https://github.com/kubescape/prometheus-exporter) | 2 | [1](https://github.com/kubescape/prometheus-exporter/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [llm-d/llm-d-infra](https://github.com/llm-d/llm-d-infra) | 2 | [1](https://github.com/llm-d/llm-d-infra/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
-| [pulumi/pulumi](https://github.com/pulumi/pulumi) | 25.8k | – | – | [7](https://github.com/pulumi/pulumi/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [1devspace/gpushare-operator](https://github.com/1devspace/gpushare-operator) | 0 | [1](https://github.com/1devspace/gpushare-operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [containerd/containerd](https://github.com/containerd/containerd) | 21.4k | – | – | [1](https://github.com/containerd/containerd/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [linkerd/linkerd2](https://github.com/linkerd/linkerd2) | 11.5k | – | – | [1](https://github.com/linkerd/linkerd2/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [loft-sh/vcluster](https://github.com/loft-sh/vcluster) | 11.3k | – | – | [1](https://github.com/loft-sh/vcluster/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
@@ -94,10 +95,10 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 | [GoogleCloudPlatform/k8s-config-connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) | 1.1k | – | – | [1](https://github.com/GoogleCloudPlatform/k8s-config-connector/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [gophercloud/gophercloud](https://github.com/gophercloud/gophercloud) | 1k | – | – | [1](https://github.com/gophercloud/gophercloud/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws) | 730 | – | – | [1](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
-| [awslabs/automated-security-helper](https://github.com/awslabs/automated-security-helper) | 704 | – | – | [1](https://github.com/awslabs/automated-security-helper/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [awslabs/automated-security-helper](https://github.com/awslabs/automated-security-helper) | 706 | – | – | [1](https://github.com/awslabs/automated-security-helper/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) | 513 | – | – | [2](https://github.com/hashicorp/terraform-provider-vault/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [crossplane/upjet](https://github.com/crossplane/upjet) | 482 | – | – | [1](https://github.com/crossplane/upjet/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
-| [open-telemetry/otel-arrow](https://github.com/open-telemetry/otel-arrow) | 432 | – | – | [1](https://github.com/open-telemetry/otel-arrow/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [open-telemetry/otel-arrow](https://github.com/open-telemetry/otel-arrow) | 437 | – | – | [1](https://github.com/open-telemetry/otel-arrow/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [aws/smithy-go](https://github.com/aws/smithy-go) | 257 | – | – | [1](https://github.com/aws/smithy-go/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [jaegertracing/jaeger-idl](https://github.com/jaegertracing/jaeger-idl) | 104 | – | – | [1](https://github.com/jaegertracing/jaeger-idl/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [FluidifyAI/Regen](https://github.com/FluidifyAI/Regen) | 88 | – | – | [1](https://github.com/FluidifyAI/Regen/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
@@ -111,9 +112,8 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 | [aws-controllers-k8s/sqs-controller](https://github.com/aws-controllers-k8s/sqs-controller) | 11 | – | – | [1](https://github.com/aws-controllers-k8s/sqs-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [aws-controllers-k8s/elbv2-controller](https://github.com/aws-controllers-k8s/elbv2-controller) | 7 | – | – | [1](https://github.com/aws-controllers-k8s/elbv2-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [aws-controllers-k8s/wafv2-controller](https://github.com/aws-controllers-k8s/wafv2-controller) | 5 | – | – | [1](https://github.com/aws-controllers-k8s/wafv2-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
-| [kubescape/storage](https://github.com/kubescape/storage) | 5 | – | – | [1](https://github.com/kubescape/storage/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 
-<sub>…and 3 more.</sub>
+<sub>…and 4 more.</sub>
 
 </details>
 
