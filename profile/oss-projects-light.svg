@@ -10,19 +10,19 @@
 <text x="170" y="97" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">llm-d-router</text>
 <path d="M182,86 h182 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-182 z" fill="#2a78d6"/>
 <text x="376" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">4</text>
-<text x="170" y="127" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">operator</text>
+<text x="170" y="127" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">helm-charts</text>
 <path d="M182,116 h89 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-89 z" fill="#2a78d6"/>
 <text x="283" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
-<text x="170" y="157" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">cluster-toolkit</text>
-<path d="M182,146 h42.5 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-42.5 z" fill="#2a78d6"/>
-<text x="236.5" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
-<text x="170" y="187" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">eks-controller</text>
+<text x="170" y="157" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">operator</text>
+<path d="M182,146 h89 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-89 z" fill="#2a78d6"/>
+<text x="283" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
+<text x="170" y="187" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">cluster-toolkit</text>
 <path d="M182,176 h42.5 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-42.5 z" fill="#2a78d6"/>
 <text x="236.5" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
-<text x="170" y="217" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">rds-controller</text>
+<text x="170" y="217" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">eks-controller</text>
 <path d="M182,206 h42.5 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-42.5 z" fill="#2a78d6"/>
 <text x="236.5" y="217" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
-<text x="170" y="247" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">helm-charts</text>
+<text x="170" y="247" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">rds-controller</text>
 <path d="M182,236 h42.5 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-42.5 z" fill="#2a78d6"/>
 <text x="236.5" y="247" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
 <text x="170" y="277" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">kubevuln</text>
