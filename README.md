@@ -72,7 +72,7 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 
 | Project | Stars | Merged | Reviewed | Open |
 | --- | ---: | ---: | ---: | ---: |
-| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 415 | [4](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [12](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [3](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 418 | [4](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [12](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [3](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [llm-d/llm-d](https://github.com/llm-d/llm-d) | 4.9k | [4](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [1](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/helm-charts](https://github.com/kubescape/helm-charts) | 42 | [2](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [1](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [kubescape/operator](https://github.com/kubescape/operator) | 24 | [2](https://github.com/kubescape/operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [1](https://github.com/kubescape/operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
