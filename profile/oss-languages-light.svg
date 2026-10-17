@@ -3,23 +3,26 @@
 <style>text{font-family:system-ui, -apple-system, "Segoe UI", sans-serif;}</style>
 <rect x="0.5" y="0.5" width="439" height="299" rx="8" fill="#fcfcfb" stroke="#0b0b0b" stroke-opacity="0.10"/>
 <text x="20" y="34" font-size="15" font-weight="600" fill="#0b0b0b" text-anchor="start">Lines changed by language</text>
-<line x1="182" y1="56" x2="182" y2="220" stroke="#c3c2b7"/>
+<line x1="182" y1="56" x2="182" y2="250" stroke="#c3c2b7"/>
 <text x="170" y="67" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Go</text>
 <path d="M182,56 h182 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-182 z" fill="#2a78d6"/>
-<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2.1k</text>
+<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2.5k</text>
 <text x="170" y="97" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">YAML</text>
-<path d="M182,86 h72.6469 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-72.6469 z" fill="#2a78d6"/>
-<text x="266.647" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">846</text>
+<path d="M182,86 h58.3686 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-58.3686 z" fill="#2a78d6"/>
+<text x="252.369" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">846</text>
 <text x="170" y="127" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Markdown</text>
-<path d="M182,116 h15.4788 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-15.4788 z" fill="#2a78d6"/>
-<text x="209.479" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">215</text>
+<path d="M182,116 h14.5779 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-14.5779 z" fill="#2a78d6"/>
+<text x="208.578" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">252</text>
 <text x="170" y="157" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Shell</text>
-<rect x="182" y="146" width="6.16074" height="14" fill="#2a78d6"/>
-<text x="196.161" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">68</text>
-<text x="170" y="187" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">HCL</text>
+<rect x="182" y="146" width="5.01308" height="14" fill="#2a78d6"/>
+<text x="195.013" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">68</text>
+<text x="170" y="187" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">TypeScript</text>
 <rect x="182" y="176" width="2" height="14" fill="#2a78d6"/>
-<text x="192" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
-<text x="170" y="217" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Python</text>
+<text x="192" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">17</text>
+<text x="170" y="217" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">HCL</text>
 <rect x="182" y="206" width="2" height="14" fill="#2a78d6"/>
-<text x="192" y="217" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
+<text x="192" y="217" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
+<text x="170" y="247" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Python</text>
+<rect x="182" y="236" width="2" height="14" fill="#2a78d6"/>
+<text x="192" y="247" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
 </svg>
