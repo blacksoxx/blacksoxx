@@ -101,7 +101,7 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 | [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws) | 730 | – | – | [1](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [awslabs/automated-security-helper](https://github.com/awslabs/automated-security-helper) | 708 | – | – | [1](https://github.com/awslabs/automated-security-helper/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) | 513 | – | – | [2](https://github.com/hashicorp/terraform-provider-vault/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
-| [crossplane/upjet](https://github.com/crossplane/upjet) | 482 | – | – | [1](https://github.com/crossplane/upjet/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [crossplane/upjet](https://github.com/crossplane/upjet) | 483 | – | – | [1](https://github.com/crossplane/upjet/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [open-telemetry/otel-arrow](https://github.com/open-telemetry/otel-arrow) | 439 | – | – | [1](https://github.com/open-telemetry/otel-arrow/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [aws/smithy-go](https://github.com/aws/smithy-go) | 257 | – | – | [1](https://github.com/aws/smithy-go/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) | 155 | – | – | [1](https://github.com/crossplane-contrib/provider-sql/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
