@@ -10,10 +10,10 @@
 <text x="170" y="97" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">llm-d</text>
 <path d="M182,86 h144.8 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-144.8 z" fill="#3987e5"/>
 <text x="338.8" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">4</text>
-<text x="170" y="127" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">helm-charts</text>
-<path d="M182,116 h70.4 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-70.4 z" fill="#3987e5"/>
-<text x="264.4" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
-<text x="170" y="157" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">operator</text>
+<text x="170" y="127" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">operator</text>
+<path d="M182,116 h107.6 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-107.6 z" fill="#3987e5"/>
+<text x="301.6" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">3</text>
+<text x="170" y="157" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">helm-charts</text>
 <path d="M182,146 h70.4 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-70.4 z" fill="#3987e5"/>
 <text x="264.4" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
 <text x="170" y="187" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">gpushare-operator</text>
