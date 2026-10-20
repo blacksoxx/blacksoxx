@@ -6,16 +6,16 @@
 <line x1="182" y1="56" x2="182" y2="250" stroke="#383835"/>
 <text x="170" y="67" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Go</text>
 <path d="M182,56 h182 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-182 z" fill="#3987e5"/>
-<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2.9k</text>
+<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">4.6k</text>
 <text x="170" y="97" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">YAML</text>
-<path d="M182,86 h49.7969 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-49.7969 z" fill="#3987e5"/>
-<text x="243.797" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">846</text>
+<path d="M182,86 h30.3797 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-30.3797 z" fill="#3987e5"/>
+<text x="224.38" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">846</text>
 <text x="170" y="127" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Markdown</text>
-<path d="M182,116 h14.0595 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-14.0595 z" fill="#3987e5"/>
-<text x="208.059" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">284</text>
+<path d="M182,116 h11.4424 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-11.4424 z" fill="#3987e5"/>
+<text x="205.442" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">380</text>
 <text x="170" y="157" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Shell</text>
-<rect x="182" y="146" width="4.3241" height="14" fill="#3987e5"/>
-<text x="194.324" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">68</text>
+<rect x="182" y="146" width="2.76338" height="14" fill="#3987e5"/>
+<text x="192.763" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">68</text>
 <text x="170" y="187" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">TypeScript</text>
 <rect x="182" y="176" width="2" height="14" fill="#3987e5"/>
 <text x="192" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">17</text>
