@@ -6,26 +6,26 @@
 <line x1="182" y1="56" x2="182" y2="280" stroke="#c3c2b7"/>
 <text x="170" y="67" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">llm-d-router</text>
 <path d="M182,56 h182 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-182 z" fill="#2a78d6"/>
-<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">5</text>
+<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">6</text>
 <text x="170" y="97" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">llm-d</text>
-<path d="M182,86 h144.8 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-144.8 z" fill="#2a78d6"/>
-<text x="338.8" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">4</text>
+<path d="M182,86 h120 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-120 z" fill="#2a78d6"/>
+<text x="314" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">4</text>
 <text x="170" y="127" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">operator</text>
-<path d="M182,116 h107.6 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-107.6 z" fill="#2a78d6"/>
-<text x="301.6" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">3</text>
+<path d="M182,116 h89 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-89 z" fill="#2a78d6"/>
+<text x="283" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">3</text>
 <text x="170" y="157" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">helm-charts</text>
-<path d="M182,146 h70.4 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-70.4 z" fill="#2a78d6"/>
-<text x="264.4" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
-<text x="170" y="187" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">gpushare-operator</text>
-<path d="M182,176 h33.2 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-33.2 z" fill="#2a78d6"/>
-<text x="227.2" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
-<text x="170" y="217" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Regen</text>
-<path d="M182,206 h33.2 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-33.2 z" fill="#2a78d6"/>
-<text x="227.2" y="217" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
-<text x="170" y="247" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">cluster-toolkit</text>
-<path d="M182,236 h33.2 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-33.2 z" fill="#2a78d6"/>
-<text x="227.2" y="247" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
-<text x="170" y="277" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">eks-controller</text>
-<path d="M182,266 h33.2 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-33.2 z" fill="#2a78d6"/>
-<text x="227.2" y="277" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
+<path d="M182,146 h58 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-58 z" fill="#2a78d6"/>
+<text x="252" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
+<text x="170" y="187" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">pulumi-kubernetes-ope…</text>
+<path d="M182,176 h58 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-58 z" fill="#2a78d6"/>
+<text x="252" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
+<text x="170" y="217" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">gpushare-operator</text>
+<path d="M182,206 h27 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-27 z" fill="#2a78d6"/>
+<text x="221" y="217" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
+<text x="170" y="247" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Regen</text>
+<path d="M182,236 h27 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-27 z" fill="#2a78d6"/>
+<text x="221" y="247" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
+<text x="170" y="277" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">cluster-toolkit</text>
+<path d="M182,266 h27 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-27 z" fill="#2a78d6"/>
+<text x="221" y="277" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
 </svg>

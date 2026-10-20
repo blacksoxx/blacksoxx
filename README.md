@@ -29,13 +29,15 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-summary-dark.svg">
-  <img alt="Open source summary: 27 merged pull requests, 49 reviews, 26 issues opened, 17 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
+  <img alt="Open source summary: 29 merged pull requests, 49 reviews, 26 issues opened, 17 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
 </picture>
 
 ### Merged pull requests
 
 | Merged | Project | Pull request |
 | --- | --- | --- |
+| 2026-10-20 | [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | [fix(epp): translate Responses tool-call turns on the legacy render path](https://github.com/llm-d/llm-d-router/pull/3524) |
+| 2026-10-20 | [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) | [Count stalled Stacks in the stacks_failing metric](https://github.com/pulumi/pulumi-kubernetes-operator/pull/1387) |
 | 2026-10-20 | [kubescape/storage](https://github.com/kubescape/storage) | [feat(watch): replay initial events and send the end-of-list bookmark for watch lists](https://github.com/kubescape/storage/pull/430) |
 | 2026-10-20 | [k0sproject/rig](https://github.com/k0sproject/rig) | [fix(remotefs): treat PosixFile handles opened with O_RDWR as writable](https://github.com/k0sproject/rig/pull/487) |
 | 2026-10-20 | [kubescape/operator](https://github.com/kubescape/operator) | [fix(watcher): resume watches from the last object, not from an error's Status](https://github.com/kubescape/operator/pull/439) |
@@ -46,10 +48,8 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 | 2026-10-16 | [kubescape/helm-charts](https://github.com/kubescape/helm-charts) | [feat(scheduler): create OperatorCommands instead of calling the operator trigger endpoint](https://github.com/kubescape/helm-charts/pull/964) |
 | 2026-10-15 | [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | [fix(epp): stop rejecting Anthropic blocks whose content is an object](https://github.com/llm-d/llm-d-router/pull/3459) |
 | 2026-10-15 | [kubescape/kubevuln](https://github.com/kubescape/kubevuln) | [fix(sbomscanner): report a sidecar lost under a running scan as a crash](https://github.com/kubescape/kubevuln/pull/1176) |
-| 2026-10-15 | [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) | [Register the `stacks_reconciling` metric on the metrics endpoint](https://github.com/pulumi/pulumi-kubernetes-operator/pull/1374) |
-| 2026-10-14 | [aws-controllers-k8s/rds-controller](https://github.com/aws-controllers-k8s/rds-controller) | [fix: ignore unset ServerlessV2ScalingConfiguration in DBCluster delta](https://github.com/aws-controllers-k8s/rds-controller/pull/324) |
 
-<sub>[All 27 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
+<sub>[All 29 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
 
 ### Reviews and issues
 
@@ -59,28 +59,28 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-projects-dark.svg">
-  <img alt="Merged pull requests by project: llm-d/llm-d-router 5, llm-d/llm-d 4, kubescape/operator 3, kubescape/helm-charts 2, 1devspace/gpushare-operator 1, FluidifyAI/Regen 1, GoogleCloudPlatform/cluster-toolkit 1, aws-controllers-k8s/eks-controller 1, aws-controllers-k8s/rds-controller 1, falcosecurity/falco-operator 1, k0sproject/rig 1, kubescape/kubevuln 1, kubescape/prometheus-exporter 1, kubescape/storage 1, llm-d/llm-d-infra 1, pulumi/pulumi 1, pulumi/pulumi-kubernetes-operator 1" src="profile/oss-projects-light.svg" width="49%">
+  <img alt="Merged pull requests by project: llm-d/llm-d-router 6, llm-d/llm-d 4, kubescape/operator 3, kubescape/helm-charts 2, pulumi/pulumi-kubernetes-operator 2, 1devspace/gpushare-operator 1, FluidifyAI/Regen 1, GoogleCloudPlatform/cluster-toolkit 1, aws-controllers-k8s/eks-controller 1, aws-controllers-k8s/rds-controller 1, falcosecurity/falco-operator 1, k0sproject/rig 1, kubescape/kubevuln 1, kubescape/prometheus-exporter 1, kubescape/storage 1, llm-d/llm-d-infra 1, pulumi/pulumi 1" src="profile/oss-projects-light.svg" width="49%">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-languages-dark.svg">
-  <img alt="Lines changed by language in merged pull requests: Go 4.6k, YAML 846, Markdown 380, Shell 68, TypeScript 17, HCL 2, Python 1" src="profile/oss-languages-light.svg" width="49%">
+  <img alt="Lines changed by language in merged pull requests: Go 4.9k, YAML 846, Markdown 400, Shell 68, TypeScript 17, HCL 2, Python 1" src="profile/oss-languages-light.svg" width="49%">
 </picture>
 </p>
 
 <details>
-<summary>All 64 projects, including 73 open pull requests</summary>
+<summary>All 64 projects, including 71 open pull requests</summary>
 
 | Project | Stars | Merged | Reviewed | Open |
 | --- | ---: | ---: | ---: | ---: |
-| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 424 | [5](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [20](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [7](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 424 | [6](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [20](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [6](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [llm-d/llm-d](https://github.com/llm-d/llm-d) | 4.9k | [4](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [3](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [2](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/operator](https://github.com/kubescape/operator) | 24 | [3](https://github.com/kubescape/operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [1](https://github.com/kubescape/operator/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/kubescape/operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/helm-charts](https://github.com/kubescape/helm-charts) | 42 | [2](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [2](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) | 293 | [2](https://github.com/pulumi/pulumi-kubernetes-operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [kubescape/kubevuln](https://github.com/kubescape/kubevuln) | 27 | [1](https://github.com/kubescape/kubevuln/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [3](https://github.com/kubescape/kubevuln/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [kubescape/storage](https://github.com/kubescape/storage) | 5 | [1](https://github.com/kubescape/storage/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [1](https://github.com/kubescape/storage/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | 25.8k | [1](https://github.com/pulumi/pulumi/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [6](https://github.com/pulumi/pulumi/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [GoogleCloudPlatform/cluster-toolkit](https://github.com/GoogleCloudPlatform/cluster-toolkit) | 366 | [1](https://github.com/GoogleCloudPlatform/cluster-toolkit/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
-| [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) | 293 | [1](https://github.com/pulumi/pulumi-kubernetes-operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [1](https://github.com/pulumi/pulumi-kubernetes-operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [aws-controllers-k8s/rds-controller](https://github.com/aws-controllers-k8s/rds-controller) | 103 | [1](https://github.com/aws-controllers-k8s/rds-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [1](https://github.com/aws-controllers-k8s/rds-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [FluidifyAI/Regen](https://github.com/FluidifyAI/Regen) | 91 | [1](https://github.com/FluidifyAI/Regen/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [k0sproject/rig](https://github.com/k0sproject/rig) | 54 | [1](https://github.com/k0sproject/rig/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
