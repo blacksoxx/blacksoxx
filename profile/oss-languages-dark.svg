@@ -14,8 +14,8 @@
 <path d="M182,116 h11.1158 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-11.1158 z" fill="#3987e5"/>
 <text x="205.116" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">400</text>
 <text x="170" y="157" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Shell</text>
-<rect x="182" y="146" width="2.56969" height="14" fill="#3987e5"/>
-<text x="192.57" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">68</text>
+<rect x="182" y="146" width="3.06095" height="14" fill="#3987e5"/>
+<text x="193.061" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">81</text>
 <text x="170" y="187" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">TypeScript</text>
 <rect x="182" y="176" width="2" height="14" fill="#3987e5"/>
 <text x="192" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">17</text>

@@ -22,10 +22,10 @@
 <text x="170" y="217" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">gpushare-operator</text>
 <path d="M182,206 h27 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-27 z" fill="#3987e5"/>
 <text x="221" y="217" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
-<text x="170" y="247" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Regen</text>
+<text x="170" y="247" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">website</text>
 <path d="M182,236 h27 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-27 z" fill="#3987e5"/>
 <text x="221" y="247" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
-<text x="170" y="277" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">cluster-toolkit</text>
+<text x="170" y="277" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Regen</text>
 <path d="M182,266 h27 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-27 z" fill="#3987e5"/>
 <text x="221" y="277" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
 </svg>

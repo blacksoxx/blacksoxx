@@ -29,13 +29,14 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-summary-dark.svg">
-  <img alt="Open source summary: 29 merged pull requests, 49 reviews, 26 issues opened, 17 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
+  <img alt="Open source summary: 30 merged pull requests, 49 reviews, 26 issues opened, 18 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
 </picture>
 
 ### Merged pull requests
 
 | Merged | Project | Pull request |
 | --- | --- | --- |
+| 2026-10-21 | [Dokploy/website](https://github.com/Dokploy/website) | [fix: fall back to the latest Docker when the pinned version is unavailable in install.sh](https://github.com/Dokploy/website/pull/203) |
 | 2026-10-20 | [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | [fix(epp): translate Responses tool-call turns on the legacy render path](https://github.com/llm-d/llm-d-router/pull/3524) |
 | 2026-10-20 | [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) | [Count stalled Stacks in the stacks_failing metric](https://github.com/pulumi/pulumi-kubernetes-operator/pull/1387) |
 | 2026-10-20 | [kubescape/storage](https://github.com/kubescape/storage) | [feat(watch): replay initial events and send the end-of-list bookmark for watch lists](https://github.com/kubescape/storage/pull/430) |
@@ -47,9 +48,8 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 | 2026-10-16 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | [Report an unknown drift status when drift detection has never run](https://github.com/pulumi/pulumi/pull/25172) |
 | 2026-10-16 | [kubescape/helm-charts](https://github.com/kubescape/helm-charts) | [feat(scheduler): create OperatorCommands instead of calling the operator trigger endpoint](https://github.com/kubescape/helm-charts/pull/964) |
 | 2026-10-15 | [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | [fix(epp): stop rejecting Anthropic blocks whose content is an object](https://github.com/llm-d/llm-d-router/pull/3459) |
-| 2026-10-15 | [kubescape/kubevuln](https://github.com/kubescape/kubevuln) | [fix(sbomscanner): report a sidecar lost under a running scan as a crash](https://github.com/kubescape/kubevuln/pull/1176) |
 
-<sub>[All 29 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
+<sub>[All 30 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
 
 ### Reviews and issues
 
@@ -59,16 +59,16 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-projects-dark.svg">
-  <img alt="Merged pull requests by project: llm-d/llm-d-router 6, llm-d/llm-d 4, kubescape/operator 3, kubescape/helm-charts 2, pulumi/pulumi-kubernetes-operator 2, 1devspace/gpushare-operator 1, FluidifyAI/Regen 1, GoogleCloudPlatform/cluster-toolkit 1, aws-controllers-k8s/eks-controller 1, aws-controllers-k8s/rds-controller 1, falcosecurity/falco-operator 1, k0sproject/rig 1, kubescape/kubevuln 1, kubescape/prometheus-exporter 1, kubescape/storage 1, llm-d/llm-d-infra 1, pulumi/pulumi 1" src="profile/oss-projects-light.svg" width="49%">
+  <img alt="Merged pull requests by project: llm-d/llm-d-router 6, llm-d/llm-d 4, kubescape/operator 3, kubescape/helm-charts 2, pulumi/pulumi-kubernetes-operator 2, 1devspace/gpushare-operator 1, Dokploy/website 1, FluidifyAI/Regen 1, GoogleCloudPlatform/cluster-toolkit 1, aws-controllers-k8s/eks-controller 1, aws-controllers-k8s/rds-controller 1, falcosecurity/falco-operator 1, k0sproject/rig 1, kubescape/kubevuln 1, kubescape/prometheus-exporter 1, kubescape/storage 1, llm-d/llm-d-infra 1, pulumi/pulumi 1" src="profile/oss-projects-light.svg" width="49%">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-languages-dark.svg">
-  <img alt="Lines changed by language in merged pull requests: Go 4.9k, YAML 846, Markdown 400, Shell 68, TypeScript 17, HCL 2, Python 1" src="profile/oss-languages-light.svg" width="49%">
+  <img alt="Lines changed by language in merged pull requests: Go 4.9k, YAML 846, Markdown 400, Shell 81, TypeScript 17, HCL 2, Python 1" src="profile/oss-languages-light.svg" width="49%">
 </picture>
 </p>
 
 <details>
-<summary>All 64 projects, including 71 open pull requests</summary>
+<summary>All 64 projects, including 70 open pull requests</summary>
 
 | Project | Stars | Merged | Reviewed | Open |
 | --- | ---: | ---: | ---: | ---: |
@@ -84,6 +84,7 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 | [aws-controllers-k8s/rds-controller](https://github.com/aws-controllers-k8s/rds-controller) | 103 | [1](https://github.com/aws-controllers-k8s/rds-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [1](https://github.com/aws-controllers-k8s/rds-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [FluidifyAI/Regen](https://github.com/FluidifyAI/Regen) | 91 | [1](https://github.com/FluidifyAI/Regen/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [k0sproject/rig](https://github.com/k0sproject/rig) | 54 | [1](https://github.com/k0sproject/rig/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
+| [Dokploy/website](https://github.com/Dokploy/website) | 51 | [1](https://github.com/Dokploy/website/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [aws-controllers-k8s/eks-controller](https://github.com/aws-controllers-k8s/eks-controller) | 48 | [1](https://github.com/aws-controllers-k8s/eks-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [1](https://github.com/aws-controllers-k8s/eks-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [falcosecurity/falco-operator](https://github.com/falcosecurity/falco-operator) | 47 | [1](https://github.com/falcosecurity/falco-operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [kubescape/prometheus-exporter](https://github.com/kubescape/prometheus-exporter) | 2 | [1](https://github.com/kubescape/prometheus-exporter/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
@@ -111,7 +112,6 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 | [hashicorp/terraform-ls](https://github.com/hashicorp/terraform-ls) | 1.2k | – | – | [2](https://github.com/hashicorp/terraform-ls/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [GoogleCloudPlatform/k8s-config-connector](https://github.com/GoogleCloudPlatform/k8s-config-connector) | 1.1k | – | – | [1](https://github.com/GoogleCloudPlatform/k8s-config-connector/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [gophercloud/gophercloud](https://github.com/gophercloud/gophercloud) | 1k | – | – | [1](https://github.com/gophercloud/gophercloud/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
-| [kubernetes-sigs/cluster-api-provider-aws](https://github.com/kubernetes-sigs/cluster-api-provider-aws) | 730 | – | – | [1](https://github.com/kubernetes-sigs/cluster-api-provider-aws/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 
 <sub>…and 24 more.</sub>
 
