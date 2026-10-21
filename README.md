@@ -29,7 +29,7 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-summary-dark.svg">
-  <img alt="Open source summary: 34 merged pull requests, 62 reviews, 33 issues opened, 19 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
+  <img alt="Open source summary: 34 merged pull requests, 62 reviews, 34 issues opened, 19 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
 </picture>
 
 ### Recent merged work
@@ -138,7 +138,7 @@ Open pull requests in 23 more organisations:
 ### Reviews and issues
 
 - Reviewed [62 pull requests](https://github.com/search?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx&type=pullrequests) in [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router), [loft-sh/vcluster](https://github.com/loft-sh/vcluster), [llm-d/llm-d](https://github.com/llm-d/llm-d) and 18 more.
-- Opened [33 issues](https://github.com/search?q=is%3Aissue+author%3Ablacksoxx+-user%3Ablacksoxx&type=issues) in [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router), [loft-sh/vcluster](https://github.com/loft-sh/vcluster), [finopsfoundation/focus_validator](https://github.com/finopsfoundation/focus_validator) and 14 more.
+- Opened [34 issues](https://github.com/search?q=is%3Aissue+author%3Ablacksoxx+-user%3Ablacksoxx&type=issues) in [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router), [loft-sh/vcluster](https://github.com/loft-sh/vcluster), [finopsfoundation/focus_validator](https://github.com/finopsfoundation/focus_validator) and 14 more.
 
 <p align="center">
 <picture>
@@ -152,7 +152,7 @@ Open pull requests in 23 more organisations:
 </p>
 
 <details>
-<summary>All 70 projects, including 78 open pull requests</summary>
+<summary>All 70 projects, including 79 open pull requests</summary>
 
 | Project | Stars | Merged | Reviewed | Open |
 | --- | ---: | ---: | ---: | ---: |
@@ -178,7 +178,7 @@ Open pull requests in 23 more organisations:
 | [loft-sh/vcluster](https://github.com/loft-sh/vcluster) | 11.4k | – | [8](https://github.com/loft-sh/vcluster/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [7](https://github.com/loft-sh/vcluster/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator) | 2.9k | – | [3](https://github.com/NVIDIA/gpu-operator/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/NVIDIA/gpu-operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [aws-controllers-k8s/ec2-controller](https://github.com/aws-controllers-k8s/ec2-controller) | 44 | – | [3](https://github.com/aws-controllers-k8s/ec2-controller/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [2](https://github.com/aws-controllers-k8s/ec2-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
-| [finopsfoundation/focus_validator](https://github.com/finopsfoundation/focus_validator) | 43 | – | [3](https://github.com/finopsfoundation/focus_validator/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [3](https://github.com/finopsfoundation/focus_validator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [finopsfoundation/focus_validator](https://github.com/finopsfoundation/focus_validator) | 43 | – | [3](https://github.com/finopsfoundation/focus_validator/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [4](https://github.com/finopsfoundation/focus_validator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/kubescape](https://github.com/kubescape/kubescape) | 11.8k | – | [2](https://github.com/kubescape/kubescape/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [llm-d/llm-d-autoscaling](https://github.com/llm-d/llm-d-autoscaling) | 60 | – | [2](https://github.com/llm-d/llm-d-autoscaling/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [NVIDIA/nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) | 4.6k | – | [1](https://github.com/NVIDIA/nvidia-container-toolkit/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/NVIDIA/nvidia-container-toolkit/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
