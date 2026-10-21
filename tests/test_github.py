@@ -1,4 +1,4 @@
-from profile_readme.github import collect, language_of
+from profile_readme.github import collect, language_of, sized
 
 
 def item(repo, number, *, state="open", merged_at=None, kind="pr", user="blacksoxx"):
@@ -8,6 +8,7 @@ def item(repo, number, *, state="open", merged_at=None, kind="pr", user="blackso
         "html_url": f"https://github.com/{repo}/pull/{number}",
         "repository_url": f"https://api.github.com/repos/{repo}",
         "created_at": f"2026-10-{number:02d}T00:00:00Z",
+        "updated_at": f"2026-10-{number + 10:02d}T00:00:00Z",
         "state": state,
         "user": {"login": user},
     }
@@ -21,7 +22,10 @@ def repo(full_name, *, private=False, stars=10):
     return {
         "full_name": full_name,
         "private": private,
-        "owner": {"login": owner},
+        "owner": {
+            "login": owner,
+            "avatar_url": f"https://avatars.githubusercontent.com/u/{len(owner)}?v=4",
+        },
         "html_url": f"https://github.com/{full_name}",
         "stargazers_count": stars,
         "description": f"{full_name} description",
@@ -44,10 +48,19 @@ FILES = [
     {"filename": "LICENSE", "additions": 1, "deletions": 0},
 ]
 
+REVIEWS = [
+    {"user": {"login": "someone"}, "submitted_at": "2026-09-01T00:00:00Z"},
+    {"user": {"login": "BlackSoxx"}, "submitted_at": "2026-10-09T08:00:00Z"},
+    {"user": {"login": "blacksoxx"}, "submitted_at": "2026-10-07T08:00:00Z"},
+    {"user": {"login": "blacksoxx"}, "submitted_at": None},
+]
+
 
 class FakeClient:
-    def __init__(self):
+    def __init__(self, avatar_error=False):
         self.queries = []
+        self.avatar_requests = []
+        self.avatar_error = avatar_error
 
     def search(self, query):
         self.queries.append(query)
@@ -70,6 +83,16 @@ class FakeClient:
         assert (repo, number) == ("acme/widgets", 1)
         return FILES
 
+    def pull_reviews(self, repo, number):
+        assert (repo, number) == ("acme/widgets", 6)
+        return REVIEWS
+
+    def get_bytes(self, url):
+        self.avatar_requests.append(url)
+        if self.avatar_error:
+            raise OSError("offline")
+        return b"png"
+
 
 def test_collect_keeps_only_public_repositories_owned_by_others():
     client = FakeClient()
@@ -84,13 +107,35 @@ def test_collect_keeps_only_public_repositories_owned_by_others():
         "url": "https://github.com/acme/widgets",
         "description": "acme/widgets description",
         "stars": 4825,
+        "avatar_url": "https://avatars.githubusercontent.com/u/4?v=4&s=64",
+        "avatar": "cG5n",
         "merged": 1,
         "open": 1,
         "reviewed": 1,
         "issues": 1,
     }
-    assert data["reviewed"][0]["author"] == "someone"
-    assert data["merged"][0]["merged_at"] == "2026-10-02T00:00:00Z"
+    assert client.avatar_requests == ["https://avatars.githubusercontent.com/u/4?v=4&s=40"]
+
+
+def test_collect_records_diff_size_language_and_review_dates():
+    data = collect(FakeClient(), "blacksoxx")
+    merged = data["merged"][0]
+    assert (merged["additions"], merged["deletions"]) == (1485, 4)
+    assert merged["language"] == "Go"
+    review = data["reviewed"][0]
+    assert review["author"] == "someone"
+    assert review["reviewed_at"] == "2026-10-07T08:00:00Z"
+
+
+def test_collect_survives_a_missing_avatar():
+    data = collect(FakeClient(avatar_error=True), "blacksoxx")
+    assert data["projects"]["acme/widgets"]["avatar"] is None
+
+
+def test_collect_excludes_listed_owners():
+    data = collect(FakeClient(), "blacksoxx", exclude=("ACME",))
+    assert data["merged"] == []
+    assert data["projects"] == {}
 
 
 def test_collect_searches_public_scope_only():
@@ -119,3 +164,8 @@ def test_language_of():
     assert language_of("web/package-lock.json") is None
     assert language_of(".gitignore") is None
     assert language_of("LICENSE") is None
+
+
+def test_sized():
+    assert sized("https://a/x?v=4", 64) == "https://a/x?v=4&s=64"
+    assert sized("https://a/x", 40) == "https://a/x?s=40"

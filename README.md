@@ -29,37 +29,121 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-summary-dark.svg">
-  <img alt="Open source summary: 34 merged pull requests, 61 reviews, 27 issues opened, 19 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
+  <img alt="Open source summary: 34 merged pull requests, 62 reviews, 33 issues opened, 19 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
 </picture>
 
-### Merged pull requests
+### Recent merged work
 
-| Merged | Project | Pull request |
-| --- | --- | --- |
-| 2026-10-21 | [kubescape/operator](https://github.com/kubescape/operator) | [fix(mainhandler): re-render persisted schedules from the current template at startup](https://github.com/kubescape/operator/pull/447) |
-| 2026-10-21 | [kubescape/operator](https://github.com/kubescape/operator) | [fix(continuousscanning): delete the records a deleted object really has](https://github.com/kubescape/operator/pull/443) |
-| 2026-10-21 | [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | [fix(coordinator): discard a client-supplied Prefer header](https://github.com/llm-d/llm-d-router/pull/3528) |
-| 2026-10-21 | [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) | [fix(janitor): accept GPUReset updates when spec.selector is omitted](https://github.com/NVIDIA/NVSentinel/pull/2066) |
-| 2026-10-21 | [Dokploy/website](https://github.com/Dokploy/website) | [fix: fall back to the latest Docker when the pinned version is unavailable in install.sh](https://github.com/Dokploy/website/pull/203) |
-| 2026-10-20 | [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | [fix(epp): translate Responses tool-call turns on the legacy render path](https://github.com/llm-d/llm-d-router/pull/3524) |
-| 2026-10-20 | [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) | [Count stalled Stacks in the stacks_failing metric](https://github.com/pulumi/pulumi-kubernetes-operator/pull/1387) |
-| 2026-10-20 | [kubescape/storage](https://github.com/kubescape/storage) | [feat(watch): replay initial events and send the end-of-list bookmark for watch lists](https://github.com/kubescape/storage/pull/430) |
-| 2026-10-20 | [k0sproject/rig](https://github.com/k0sproject/rig) | [fix(remotefs): treat PosixFile handles opened with O_RDWR as writable](https://github.com/k0sproject/rig/pull/487) |
-| 2026-10-20 | [kubescape/operator](https://github.com/kubescape/operator) | [fix(watcher): resume watches from the last object, not from an error's Status](https://github.com/kubescape/operator/pull/439) |
-| 2026-10-19 | [falcosecurity/falco-operator](https://github.com/falcosecurity/falco-operator) | [fix(artifact): deliver Config before waiting for Falco](https://github.com/falcosecurity/falco-operator/pull/450) |
-| 2026-10-19 | [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | [docs(parsers): state that the SGLang parser takes one prompt per request](https://github.com/llm-d/llm-d-router/pull/3506) |
+<p align="center">
+<a href="https://github.com/kubescape/operator/pull/447">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-1-dark.svg">
+  <img alt="kubescape/operator: fix(mainhandler): re-render persisted schedules from the current template at startup" src="profile/pr-1-light.svg" width="49%">
+</picture>
+</a>
+<a href="https://github.com/kubescape/operator/pull/443">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-2-dark.svg">
+  <img alt="kubescape/operator: fix(continuousscanning): delete the records a deleted object really has" src="profile/pr-2-light.svg" width="49%">
+</picture>
+</a>
+<a href="https://github.com/llm-d/llm-d-router/pull/3528">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-3-dark.svg">
+  <img alt="llm-d/llm-d-router: fix(coordinator): discard a client-supplied Prefer header" src="profile/pr-3-light.svg" width="49%">
+</picture>
+</a>
+<a href="https://github.com/NVIDIA/NVSentinel/pull/2066">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-4-dark.svg">
+  <img alt="NVIDIA/NVSentinel: fix(janitor): accept GPUReset updates when spec.selector is omitted" src="profile/pr-4-light.svg" width="49%">
+</picture>
+</a>
+<a href="https://github.com/Dokploy/website/pull/203">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-5-dark.svg">
+  <img alt="Dokploy/website: fix: fall back to the latest Docker when the pinned version is unavailable in install.sh" src="profile/pr-5-light.svg" width="49%">
+</picture>
+</a>
+<a href="https://github.com/llm-d/llm-d-router/pull/3524">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-6-dark.svg">
+  <img alt="llm-d/llm-d-router: fix(epp): translate Responses tool-call turns on the legacy render path" src="profile/pr-6-light.svg" width="49%">
+</picture>
+</a>
+<a href="https://github.com/pulumi/pulumi-kubernetes-operator/pull/1387">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-7-dark.svg">
+  <img alt="pulumi/pulumi-kubernetes-operator: Count stalled Stacks in the stacks_failing metric" src="profile/pr-7-light.svg" width="49%">
+</picture>
+</a>
+<a href="https://github.com/kubescape/storage/pull/430">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-8-dark.svg">
+  <img alt="kubescape/storage: feat(watch): replay initial events and send the end-of-list bookmark for watch lists" src="profile/pr-8-light.svg" width="49%">
+</picture>
+</a>
+</p>
 
 <sub>[All 34 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
 
+### Projects
+
+<table>
+<tr>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Allm-d&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/211385051?v=4&s=64" width="48" height="48" alt="llm-d"><br><sub><b>llm-d</b></sub></a><br><sub>12 merged</sub></td>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Akubescape&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/100554170?v=4&s=64" width="48" height="48" alt="kubescape"><br><sub><b>kubescape</b></sub></a><br><sub>10 merged</sub></td>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Apulumi&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/21992475?v=4&s=64" width="48" height="48" alt="pulumi"><br><sub><b>pulumi</b></sub></a><br><sub>3 merged</sub></td>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Aaws-controllers-k8s&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/78112587?v=4&s=64" width="48" height="48" alt="aws-controllers-k8s"><br><sub><b>aws-controllers-k8s</b></sub></a><br><sub>2 merged</sub></td>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3ANVIDIA&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/1728152?v=4&s=64" width="48" height="48" alt="NVIDIA"><br><sub><b>NVIDIA</b></sub></a><br><sub>1 merged</sub></td>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3AGoogleCloudPlatform&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/2810941?v=4&s=64" width="48" height="48" alt="GoogleCloudPlatform"><br><sub><b>GoogleCloudPlatform</b></sub></a><br><sub>1 merged</sub></td>
+</tr>
+<tr>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3AFluidifyAI&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/242344720?v=4&s=64" width="48" height="48" alt="FluidifyAI"><br><sub><b>FluidifyAI</b></sub></a><br><sub>1 merged</sub></td>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Ak0sproject&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/72999283?v=4&s=64" width="48" height="48" alt="k0sproject"><br><sub><b>k0sproject</b></sub></a><br><sub>1 merged</sub></td>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3ADokploy&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/156882017?v=4&s=64" width="48" height="48" alt="Dokploy"><br><sub><b>Dokploy</b></sub></a><br><sub>1 merged</sub></td>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Afalcosecurity&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/42391047?v=4&s=64" width="48" height="48" alt="falcosecurity"><br><sub><b>falcosecurity</b></sub></a><br><sub>1 merged</sub></td>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3A1devspace&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/202459533?v=4&s=64" width="48" height="48" alt="1devspace"><br><sub><b>1devspace</b></sub></a><br><sub>1 merged</sub></td>
+</tr>
+</table>
+
+Open pull requests in 23 more organisations:
+
+<p>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Aloft-sh&type=pullrequests" title="loft-sh"><img src="https://avatars.githubusercontent.com/u/65466868?v=4&s=64" width="28" height="28" alt="loft-sh"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Ahashicorp&type=pullrequests" title="hashicorp"><img src="https://avatars.githubusercontent.com/u/761456?v=4&s=64" width="28" height="28" alt="hashicorp"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Afinopsfoundation&type=pullrequests" title="finopsfoundation"><img src="https://avatars.githubusercontent.com/u/64022381?v=4&s=64" width="28" height="28" alt="finopsfoundation"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Aargoproj&type=pullrequests" title="argoproj"><img src="https://avatars.githubusercontent.com/u/30269780?v=4&s=64" width="28" height="28" alt="argoproj"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Acrossplane&type=pullrequests" title="crossplane"><img src="https://avatars.githubusercontent.com/u/45158470?v=4&s=64" width="28" height="28" alt="crossplane"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Aturbot&type=pullrequests" title="turbot"><img src="https://avatars.githubusercontent.com/u/38865304?v=4&s=64" width="28" height="28" alt="turbot"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Acontainerd&type=pullrequests" title="containerd"><img src="https://avatars.githubusercontent.com/u/14037953?v=4&s=64" width="28" height="28" alt="containerd"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Azitadel&type=pullrequests" title="zitadel"><img src="https://avatars.githubusercontent.com/u/70011121?v=4&s=64" width="28" height="28" alt="zitadel"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Alinkerd&type=pullrequests" title="linkerd"><img src="https://avatars.githubusercontent.com/u/25301026?v=4&s=64" width="28" height="28" alt="linkerd"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Agruntwork-io&type=pullrequests" title="gruntwork-io"><img src="https://avatars.githubusercontent.com/u/17118990?v=4&s=64" width="28" height="28" alt="gruntwork-io"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Akgateway-dev&type=pullrequests" title="kgateway-dev"><img src="https://avatars.githubusercontent.com/u/186092512?v=4&s=64" width="28" height="28" alt="kgateway-dev"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Akai-scheduler&type=pullrequests" title="kai-scheduler"><img src="https://avatars.githubusercontent.com/u/263359973?v=4&s=64" width="28" height="28" alt="kai-scheduler"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Agophercloud&type=pullrequests" title="gophercloud"><img src="https://avatars.githubusercontent.com/u/13769691?v=4&s=64" width="28" height="28" alt="gophercloud"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Akubernetes-sigs&type=pullrequests" title="kubernetes-sigs"><img src="https://avatars.githubusercontent.com/u/36015203?v=4&s=64" width="28" height="28" alt="kubernetes-sigs"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Aawslabs&type=pullrequests" title="awslabs"><img src="https://avatars.githubusercontent.com/u/3299148?v=4&s=64" width="28" height="28" alt="awslabs"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Aopen-telemetry&type=pullrequests" title="open-telemetry"><img src="https://avatars.githubusercontent.com/u/49998002?v=4&s=64" width="28" height="28" alt="open-telemetry"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Aai-dynamo&type=pullrequests" title="ai-dynamo"><img src="https://avatars.githubusercontent.com/u/201626793?v=4&s=64" width="28" height="28" alt="ai-dynamo"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Aaws&type=pullrequests" title="aws"><img src="https://avatars.githubusercontent.com/u/2232217?v=4&s=64" width="28" height="28" alt="aws"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Acrossplane-contrib&type=pullrequests" title="crossplane-contrib"><img src="https://avatars.githubusercontent.com/u/65389701?v=4&s=64" width="28" height="28" alt="crossplane-contrib"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Ajaegertracing&type=pullrequests" title="jaegertracing"><img src="https://avatars.githubusercontent.com/u/28545596?v=4&s=64" width="28" height="28" alt="jaegertracing"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Aupbound&type=pullrequests" title="upbound"><img src="https://avatars.githubusercontent.com/u/31934484?v=4&s=64" width="28" height="28" alt="upbound"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3AFinOps-Open-Cost-and-Usage-Spec&type=pullrequests" title="FinOps-Open-Cost-and-Usage-Spec"><img src="https://avatars.githubusercontent.com/u/123900742?v=4&s=64" width="28" height="28" alt="FinOps-Open-Cost-and-Usage-Spec"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Aanchore&type=pullrequests" title="anchore"><img src="https://avatars.githubusercontent.com/u/16208487?v=4&s=64" width="28" height="28" alt="anchore"></a>
+</p>
+
 ### Reviews and issues
 
-- Reviewed [61 pull requests](https://github.com/search?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx&type=pullrequests) in [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router), [loft-sh/vcluster](https://github.com/loft-sh/vcluster), [llm-d/llm-d](https://github.com/llm-d/llm-d) and 17 more.
-- Opened [27 issues](https://github.com/search?q=is%3Aissue+author%3Ablacksoxx+-user%3Ablacksoxx&type=issues) in [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router), [loft-sh/vcluster](https://github.com/loft-sh/vcluster), [kubescape/operator](https://github.com/kubescape/operator) and 13 more.
+- Reviewed [62 pull requests](https://github.com/search?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx&type=pullrequests) in [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router), [loft-sh/vcluster](https://github.com/loft-sh/vcluster), [llm-d/llm-d](https://github.com/llm-d/llm-d) and 18 more.
+- Opened [33 issues](https://github.com/search?q=is%3Aissue+author%3Ablacksoxx+-user%3Ablacksoxx&type=issues) in [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router), [loft-sh/vcluster](https://github.com/loft-sh/vcluster), [finopsfoundation/focus_validator](https://github.com/finopsfoundation/focus_validator) and 14 more.
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/oss-projects-dark.svg">
-  <img alt="Merged pull requests by project: llm-d/llm-d-router 7, kubescape/operator 5, llm-d/llm-d 4, kubescape/helm-charts 2, pulumi/pulumi-kubernetes-operator 2, 1devspace/gpushare-operator 1, Dokploy/website 1, FluidifyAI/Regen 1, GoogleCloudPlatform/cluster-toolkit 1, NVIDIA/NVSentinel 1, aws-controllers-k8s/eks-controller 1, aws-controllers-k8s/rds-controller 1, falcosecurity/falco-operator 1, k0sproject/rig 1, kubescape/kubevuln 1, kubescape/prometheus-exporter 1, kubescape/storage 1, llm-d/llm-d-infra 1, pulumi/pulumi 1" src="profile/oss-projects-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/oss-activity-dark.svg">
+  <img alt="Merged pull requests and reviews per week over the last twelve weeks" src="profile/oss-activity-light.svg" width="49%">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-languages-dark.svg">
@@ -68,11 +152,11 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 </p>
 
 <details>
-<summary>All 68 projects, including 69 open pull requests</summary>
+<summary>All 70 projects, including 78 open pull requests</summary>
 
 | Project | Stars | Merged | Reviewed | Open |
 | --- | ---: | ---: | ---: | ---: |
-| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 428 | [7](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [21](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [5](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 428 | [7](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [21](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [6](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/operator](https://github.com/kubescape/operator) | 24 | [5](https://github.com/kubescape/operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [1](https://github.com/kubescape/operator/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [llm-d/llm-d](https://github.com/llm-d/llm-d) | 4.9k | [4](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [4](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [2](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/helm-charts](https://github.com/kubescape/helm-charts) | 42 | [2](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [2](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
@@ -80,7 +164,7 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 | [kubescape/kubevuln](https://github.com/kubescape/kubevuln) | 27 | [1](https://github.com/kubescape/kubevuln/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [3](https://github.com/kubescape/kubevuln/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [kubescape/storage](https://github.com/kubescape/storage) | 5 | [1](https://github.com/kubescape/storage/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [1](https://github.com/kubescape/storage/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | 25.8k | [1](https://github.com/pulumi/pulumi/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [6](https://github.com/pulumi/pulumi/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
-| [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) | 410 | [1](https://github.com/NVIDIA/NVSentinel/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [1](https://github.com/NVIDIA/NVSentinel/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) | 410 | [1](https://github.com/NVIDIA/NVSentinel/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [2](https://github.com/NVIDIA/NVSentinel/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [GoogleCloudPlatform/cluster-toolkit](https://github.com/GoogleCloudPlatform/cluster-toolkit) | 366 | [1](https://github.com/GoogleCloudPlatform/cluster-toolkit/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [aws-controllers-k8s/rds-controller](https://github.com/aws-controllers-k8s/rds-controller) | 103 | [1](https://github.com/aws-controllers-k8s/rds-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [1](https://github.com/aws-controllers-k8s/rds-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [FluidifyAI/Regen](https://github.com/FluidifyAI/Regen) | 91 | [1](https://github.com/FluidifyAI/Regen/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
@@ -91,15 +175,16 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 | [kubescape/prometheus-exporter](https://github.com/kubescape/prometheus-exporter) | 2 | [1](https://github.com/kubescape/prometheus-exporter/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [llm-d/llm-d-infra](https://github.com/llm-d/llm-d-infra) | 2 | [1](https://github.com/llm-d/llm-d-infra/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [1devspace/gpushare-operator](https://github.com/1devspace/gpushare-operator) | 0 | [1](https://github.com/1devspace/gpushare-operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
-| [loft-sh/vcluster](https://github.com/loft-sh/vcluster) | 11.4k | – | [8](https://github.com/loft-sh/vcluster/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [6](https://github.com/loft-sh/vcluster/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [loft-sh/vcluster](https://github.com/loft-sh/vcluster) | 11.4k | – | [8](https://github.com/loft-sh/vcluster/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [7](https://github.com/loft-sh/vcluster/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator) | 2.9k | – | [3](https://github.com/NVIDIA/gpu-operator/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/NVIDIA/gpu-operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
-| [aws-controllers-k8s/ec2-controller](https://github.com/aws-controllers-k8s/ec2-controller) | 44 | – | [3](https://github.com/aws-controllers-k8s/ec2-controller/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/aws-controllers-k8s/ec2-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
-| [finopsfoundation/focus_validator](https://github.com/finopsfoundation/focus_validator) | 43 | – | [3](https://github.com/finopsfoundation/focus_validator/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
+| [aws-controllers-k8s/ec2-controller](https://github.com/aws-controllers-k8s/ec2-controller) | 44 | – | [3](https://github.com/aws-controllers-k8s/ec2-controller/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [2](https://github.com/aws-controllers-k8s/ec2-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [finopsfoundation/focus_validator](https://github.com/finopsfoundation/focus_validator) | 43 | – | [3](https://github.com/finopsfoundation/focus_validator/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [3](https://github.com/finopsfoundation/focus_validator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/kubescape](https://github.com/kubescape/kubescape) | 11.8k | – | [2](https://github.com/kubescape/kubescape/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [llm-d/llm-d-autoscaling](https://github.com/llm-d/llm-d-autoscaling) | 60 | – | [2](https://github.com/llm-d/llm-d-autoscaling/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [NVIDIA/nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) | 4.6k | – | [1](https://github.com/NVIDIA/nvidia-container-toolkit/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/NVIDIA/nvidia-container-toolkit/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) | 3.9k | – | [1](https://github.com/NVIDIA/k8s-device-plugin/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/NVIDIA/k8s-device-plugin/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) | 1.6k | – | [1](https://github.com/kai-scheduler/KAI-Scheduler/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/kai-scheduler/KAI-Scheduler/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [ai-dynamo/grove](https://github.com/ai-dynamo/grove) | 278 | – | [1](https://github.com/ai-dynamo/grove/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/ai-dynamo/grove/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [aws-controllers-k8s/runtime](https://github.com/aws-controllers-k8s/runtime) | 48 | – | [1](https://github.com/aws-controllers-k8s/runtime/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [aws-controllers-k8s/lambda-controller](https://github.com/aws-controllers-k8s/lambda-controller) | 18 | – | [1](https://github.com/aws-controllers-k8s/lambda-controller/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [aws-controllers-k8s/cloudwatch-controller](https://github.com/aws-controllers-k8s/cloudwatch-controller) | 3 | – | [1](https://github.com/aws-controllers-k8s/cloudwatch-controller/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/aws-controllers-k8s/cloudwatch-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
@@ -111,9 +196,8 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 | [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) | 9.9k | – | – | [1](https://github.com/gruntwork-io/terragrunt/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) | 5.7k | – | – | [1](https://github.com/kgateway-dev/kgateway/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [argoproj/argo-events](https://github.com/argoproj/argo-events) | 2.7k | – | – | [2](https://github.com/argoproj/argo-events/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
-| [aws-controllers-k8s/community](https://github.com/aws-controllers-k8s/community) | 2.6k | – | – | – |
 
-<sub>…and 28 more.</sub>
+<sub>…and 30 more.</sub>
 
 </details>
 

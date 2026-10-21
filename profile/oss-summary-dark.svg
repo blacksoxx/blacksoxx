@@ -3,14 +3,17 @@
 <style>text{font-family:system-ui, -apple-system, "Segoe UI", sans-serif;}</style>
 <rect x="0.5" y="0.5" width="839" height="155" rx="8" fill="#1a1a19" stroke="#ffffff" stroke-opacity="0.10"/>
 <text x="24" y="34" font-size="15" font-weight="600" fill="#f0efec" text-anchor="start">Open source contributions</text>
-<text x="24" y="54" font-size="12" font-weight="400" fill="#898781" text-anchor="start">Public repositories owned by others, refreshed daily</text>
+<text x="24" y="54" font-size="12" font-weight="400" fill="#898781" text-anchor="start">Public repositories owned by others, refreshed every six hours</text>
 <line x1="24" y1="68" x2="816" y2="68" stroke="#2c2c2a"/>
 <text x="24" y="96" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="start">Merged pull requests</text>
 <text x="24" y="132" font-size="30" font-weight="600" fill="#f0efec" text-anchor="start">34</text>
+<text x="71.2" y="132" font-size="12" font-weight="600" fill="#0ca30c" text-anchor="start">+34 in 30 days</text>
 <text x="222" y="96" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="start">Reviews</text>
-<text x="222" y="132" font-size="30" font-weight="600" fill="#f0efec" text-anchor="start">61</text>
+<text x="222" y="132" font-size="30" font-weight="600" fill="#f0efec" text-anchor="start">62</text>
+<text x="269.2" y="132" font-size="12" font-weight="600" fill="#0ca30c" text-anchor="start">+62 in 30 days</text>
 <text x="420" y="96" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="start">Issues opened</text>
-<text x="420" y="132" font-size="30" font-weight="600" fill="#f0efec" text-anchor="start">27</text>
+<text x="420" y="132" font-size="30" font-weight="600" fill="#f0efec" text-anchor="start">33</text>
+<text x="467.2" y="132" font-size="12" font-weight="600" fill="#0ca30c" text-anchor="start">+33 in 30 days</text>
 <text x="618" y="96" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="start">Projects merged into</text>
 <text x="618" y="132" font-size="30" font-weight="600" fill="#f0efec" text-anchor="start">19</text>
 </svg>

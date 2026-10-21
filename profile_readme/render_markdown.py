@@ -5,24 +5,23 @@ from __future__ import annotations
 import html
 import urllib.parse
 
+from .charts import CARDS
+from .format import compact, plural
+
 START = "<!-- OSS-CONTRIBUTIONS:START -->"
 END = "<!-- OSS-CONTRIBUTIONS:END -->"
-MERGED_ROWS = 12
 PROJECT_ROWS = 40
 PHRASE_PROJECTS = 3
-
-
-def compact(n: int) -> str:
-    """4825 -> 4.8k, 25789 -> 25.8k, 1000 -> 1k, 48 -> 48."""
-    if n >= 1_000_000:
-        return f"{n / 1_000_000:.1f}M".replace(".0M", "M")
-    if n >= 1_000:
-        return f"{n / 1_000:.1f}k".replace(".0k", "k")
-    return str(n)
+WALL_COLUMNS = 6
+OPEN_LOGOS = 30
 
 
 def cell(text: str) -> str:
     return html.escape(text, quote=False).replace("|", "\\|")
+
+
+def attr(text: str) -> str:
+    return html.escape(text, quote=True)
 
 
 def search_url(kind: str, *terms: str) -> str:
@@ -35,12 +34,15 @@ def repo_url(repo: str, kind: str, *terms: str) -> str:
     return f"https://github.com/{repo}/{kind}?q={query}"
 
 
+def count_link(n: int, url: str) -> str:
+    return f"[{n}]({url})" if n else "–"
+
+
 def picture(name: str, alt: str, width: str) -> list[str]:
     return [
         "<picture>",
         f'  <source media="(prefers-color-scheme: dark)" srcset="profile/{name}-dark.svg">',
-        f'  <img alt="{html.escape(alt, quote=True)}" '
-        f'src="profile/{name}-light.svg" width="{width}">',
+        f'  <img alt="{attr(alt)}" src="profile/{name}-light.svg" width="{width}">',
         "</picture>",
     ]
 
@@ -57,12 +59,20 @@ def project_phrase(projects: dict[str, dict], counts: dict[str, int]) -> str:
     return ", ".join(links[:-1]) + " and " + links[-1]
 
 
-def count_link(n: int, url: str) -> str:
-    return f"[{n}]({url})" if n else "–"
-
-
-def plural(n: int, word: str) -> str:
-    return f"{n} {word}" if n == 1 else f"{n} {word}s"
+def by_owner(projects: dict[str, dict], key: str) -> list[tuple[str, int, int, str]]:
+    """(owner, count, stars, avatar_url) for owners with a non-zero `key`, ranked."""
+    owners: dict[str, list] = {}
+    for name, p in projects.items():
+        if not p[key]:
+            continue
+        owner = name.split("/")[0]
+        entry = owners.setdefault(owner, [0, 0, p["avatar_url"]])
+        entry[0] += p[key]
+        entry[1] = max(entry[1], p["stars"])
+    return sorted(
+        ((owner, c, s, a) for owner, (c, s, a) in owners.items()),
+        key=lambda item: (-item[1], -item[2], item[0]),
+    )
 
 
 def render_section(data: dict) -> str:
@@ -83,22 +93,51 @@ def render_section(data: dict) -> str:
         "100%",
     )
 
-    lines += ["", "### Merged pull requests", ""]
+    lines += ["", "### Recent merged work", ""]
     if merged:
-        lines += ["| Merged | Project | Pull request |", "| --- | --- | --- |"]
-        for pr in merged[:MERGED_ROWS]:
-            lines.append(
-                f"| {pr['merged_at'][:10]} "
-                f"| [{pr['repo']}]({projects[pr['repo']]['url']}) "
-                f"| [{cell(pr['title'])}]({pr['url']}) |"
-            )
-        if len(merged) > MERGED_ROWS:
-            url = search_url(
-                "pullrequests", "is:pr", f"author:{user}", "is:merged", f"-user:{user}"
-            )
-            lines += ["", f"<sub>[All {len(merged)} merged pull requests]({url})</sub>"]
+        lines.append('<p align="center">')
+        for index, pr in enumerate(merged[:CARDS], 1):
+            lines.append(f'<a href="{pr["url"]}">')
+            lines += picture(f"pr-{index}", f"{pr['repo']}: {pr['title']}", "49%")
+            lines.append("</a>")
+        lines.append("</p>")
+        url = search_url("pullrequests", "is:pr", f"author:{user}", "is:merged", f"-user:{user}")
+        lines += ["", f"<sub>[All {len(merged)} merged pull requests]({url})</sub>"]
     else:
         lines.append("_Nothing merged yet._")
+
+    wall = by_owner(projects, "merged")
+    if wall:
+        lines += ["", "### Projects", "", "<table>"]
+        for start in range(0, len(wall), WALL_COLUMNS):
+            lines.append("<tr>")
+            for owner, count, _, avatar in wall[start : start + WALL_COLUMNS]:
+                url = search_url(
+                    "pullrequests", "is:pr", f"author:{user}", "is:merged", f"user:{owner}"
+                )
+                lines.append(
+                    f'<td align="center" width="{100 // WALL_COLUMNS}%">'
+                    f'<a href="{url}"><img src="{avatar}" width="48" height="48" '
+                    f'alt="{attr(owner)}"><br><sub><b>{html.escape(owner)}</b></sub></a>'
+                    f"<br><sub>{count} merged</sub></td>"
+                )
+            lines.append("</tr>")
+        lines.append("</table>")
+
+    merged_owners = {owner for owner, *_ in wall}
+    others = [entry for entry in by_owner(projects, "open") if entry[0] not in merged_owners]
+    if others:
+        lines += ["", f"Open pull requests in {plural(len(others), 'more organisation')}:", ""]
+        lines.append("<p>")
+        for owner, _, _, avatar in others[:OPEN_LOGOS]:
+            url = search_url("pullrequests", "is:pr", f"author:{user}", "is:open", f"user:{owner}")
+            lines.append(
+                f'<a href="{url}" title="{attr(owner)}"><img src="{avatar}" width="28" '
+                f'height="28" alt="{attr(owner)}"></a>'
+            )
+        if len(others) > OPEN_LOGOS:
+            lines.append(f"<sub>+{len(others) - OPEN_LOGOS} more</sub>")
+        lines.append("</p>")
 
     activity: list[str] = []
     if reviewed:
@@ -118,16 +157,11 @@ def render_section(data: dict) -> str:
     if activity:
         lines += ["", "### Reviews and issues", "", *activity]
 
-    by_project = sorted(
-        ((name, p["merged"]) for name, p in projects.items() if p["merged"]),
-        key=lambda item: (-item[1], item[0]),
-    )
     languages = sorted(data["languages"].items(), key=lambda item: (-item[1], item[0]))
     lines += ["", '<p align="center">']
     lines += picture(
-        "oss-projects",
-        "Merged pull requests by project: "
-        + (", ".join(f"{name} {n}" for name, n in by_project) or "none yet"),
+        "oss-activity",
+        "Merged pull requests and reviews per week over the last twelve weeks",
         "49%",
     )
     lines += picture(

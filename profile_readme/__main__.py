@@ -14,7 +14,7 @@ import sys
 from pathlib import Path
 
 from .charts import render_all
-from .github import Client, collect, default_user
+from .github import Client, collect, default_exclude, default_user
 from .render_markdown import render_section, update_readme
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -22,7 +22,7 @@ ROOT = Path(__file__).resolve().parent.parent
 
 def fetch(args: argparse.Namespace) -> int:
     client = Client(os.environ.get("GITHUB_TOKEN"), user_agent=f"{args.user}-profile-readme")
-    data = collect(client, args.user)
+    data = collect(client, args.user, exclude=args.exclude)
     args.data.parent.mkdir(parents=True, exist_ok=True)
     args.data.write_text(json.dumps(data, indent=2, sort_keys=True) + "\n", encoding="utf-8")
     print(
@@ -37,14 +37,22 @@ def render(args: argparse.Namespace) -> int:
     data = json.loads(args.data.read_text(encoding="utf-8"))
 
     args.charts.mkdir(parents=True, exist_ok=True)
+    charts = render_all(data)
     changed = []
-    for name, svg in render_all(data).items():
+    for name, svg in charts.items():
         target = args.charts / name
         if not target.exists() or target.read_text(encoding="utf-8") != svg:
             target.write_text(svg, encoding="utf-8")
             changed.append(name)
-    if changed:
-        print(f"{args.charts}: {len(changed)} chart(s) changed")
+    stale = [
+        path
+        for path in args.charts.glob("*.svg")
+        if path.name not in charts and (path.name.startswith(("oss-", "pr-")))
+    ]
+    for path in stale:
+        path.unlink()
+    if changed or stale:
+        print(f"{args.charts}: {len(changed)} chart(s) changed, {len(stale)} removed")
     else:
         print(f"{args.charts}: unchanged")
 
@@ -61,6 +69,12 @@ def render(args: argparse.Namespace) -> int:
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="profile_readme", description=__doc__)
     parser.add_argument("--user", default=default_user(), help="GitHub login (default: $GH_USER)")
+    parser.add_argument(
+        "--exclude",
+        default=default_exclude(),
+        type=lambda raw: tuple(o.strip() for o in raw.split(",") if o.strip()),
+        help="comma-separated repository owners to leave out (default: $GH_EXCLUDE_OWNERS)",
+    )
     parser.add_argument("--data", type=Path, default=ROOT / "data" / "contributions.json")
     parser.add_argument("--readme", type=Path, default=ROOT / "README.md")
     parser.add_argument("--charts", type=Path, default=ROOT / "profile")

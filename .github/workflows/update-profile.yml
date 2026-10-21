@@ -33,6 +33,8 @@ jobs:
           # elsewhere. The collector filters to public ones on top of that.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
+          # Comma-separated owners to leave out even when their repositories are public.
+          GH_EXCLUDE_OWNERS: ""
         run: python -m profile_readme update
 
       - name: Commit and push
