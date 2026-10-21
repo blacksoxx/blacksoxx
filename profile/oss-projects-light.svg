@@ -6,26 +6,26 @@
 <line x1="182" y1="56" x2="182" y2="280" stroke="#c3c2b7"/>
 <text x="170" y="67" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">llm-d-router</text>
 <path d="M182,56 h182 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-182 z" fill="#2a78d6"/>
-<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">6</text>
-<text x="170" y="97" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">llm-d</text>
-<path d="M182,86 h120 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-120 z" fill="#2a78d6"/>
-<text x="314" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">4</text>
-<text x="170" y="127" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">operator</text>
-<path d="M182,116 h89 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-89 z" fill="#2a78d6"/>
-<text x="283" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">3</text>
+<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">7</text>
+<text x="170" y="97" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">operator</text>
+<path d="M182,86 h128.857 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-128.857 z" fill="#2a78d6"/>
+<text x="322.857" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">5</text>
+<text x="170" y="127" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">llm-d</text>
+<path d="M182,116 h102.286 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-102.286 z" fill="#2a78d6"/>
+<text x="296.286" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">4</text>
 <text x="170" y="157" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">helm-charts</text>
-<path d="M182,146 h58 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-58 z" fill="#2a78d6"/>
-<text x="252" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
+<path d="M182,146 h49.1429 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-49.1429 z" fill="#2a78d6"/>
+<text x="243.143" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
 <text x="170" y="187" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">pulumi-kubernetes-ope…</text>
-<path d="M182,176 h58 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-58 z" fill="#2a78d6"/>
-<text x="252" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
+<path d="M182,176 h49.1429 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-49.1429 z" fill="#2a78d6"/>
+<text x="243.143" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2</text>
 <text x="170" y="217" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">gpushare-operator</text>
-<path d="M182,206 h27 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-27 z" fill="#2a78d6"/>
-<text x="221" y="217" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
+<path d="M182,206 h22.5714 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-22.5714 z" fill="#2a78d6"/>
+<text x="216.571" y="217" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
 <text x="170" y="247" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">website</text>
-<path d="M182,236 h27 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-27 z" fill="#2a78d6"/>
-<text x="221" y="247" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
+<path d="M182,236 h22.5714 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-22.5714 z" fill="#2a78d6"/>
+<text x="216.571" y="247" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
 <text x="170" y="277" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Regen</text>
-<path d="M182,266 h27 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-27 z" fill="#2a78d6"/>
-<text x="221" y="277" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
+<path d="M182,266 h22.5714 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-22.5714 z" fill="#2a78d6"/>
+<text x="216.571" y="277" font-size="12" font-weight="400" fill="#898781" text-anchor="start">1</text>
 </svg>
