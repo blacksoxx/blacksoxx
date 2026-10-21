@@ -29,63 +29,63 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-summary-dark.svg">
-  <img alt="Open source summary: 34 merged pull requests, 62 reviews, 38 issues opened, 19 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
+  <img alt="Open source summary: 35 merged pull requests, 62 reviews, 38 issues opened, 19 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
 </picture>
 
 ### Recent merged work
 
 <p align="center">
-<a href="https://github.com/kubescape/operator/pull/447">
+<a href="https://github.com/pulumi/pulumi/pull/25187">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/pr-1-dark.svg">
-  <img alt="kubescape/operator: fix(mainhandler): re-render persisted schedules from the current template at startup" src="profile/pr-1-light.svg" width="49%">
+  <img alt="pulumi/pulumi: Show the searched directory in the missing `Pulumi.yaml` error for `pulumi preview`, `refresh`, `import`, `logs` and `install`" src="profile/pr-1-light.svg" width="49%">
+</picture>
+</a>
+<a href="https://github.com/kubescape/operator/pull/447">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-2-dark.svg">
+  <img alt="kubescape/operator: fix(mainhandler): re-render persisted schedules from the current template at startup" src="profile/pr-2-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/kubescape/operator/pull/443">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-2-dark.svg">
-  <img alt="kubescape/operator: fix(continuousscanning): delete the records a deleted object really has" src="profile/pr-2-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-3-dark.svg">
+  <img alt="kubescape/operator: fix(continuousscanning): delete the records a deleted object really has" src="profile/pr-3-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/llm-d/llm-d-router/pull/3528">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-3-dark.svg">
-  <img alt="llm-d/llm-d-router: fix(coordinator): discard a client-supplied Prefer header" src="profile/pr-3-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-4-dark.svg">
+  <img alt="llm-d/llm-d-router: fix(coordinator): discard a client-supplied Prefer header" src="profile/pr-4-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/NVIDIA/NVSentinel/pull/2066">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-4-dark.svg">
-  <img alt="NVIDIA/NVSentinel: fix(janitor): accept GPUReset updates when spec.selector is omitted" src="profile/pr-4-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-5-dark.svg">
+  <img alt="NVIDIA/NVSentinel: fix(janitor): accept GPUReset updates when spec.selector is omitted" src="profile/pr-5-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/Dokploy/website/pull/203">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-5-dark.svg">
-  <img alt="Dokploy/website: fix: fall back to the latest Docker when the pinned version is unavailable in install.sh" src="profile/pr-5-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-6-dark.svg">
+  <img alt="Dokploy/website: fix: fall back to the latest Docker when the pinned version is unavailable in install.sh" src="profile/pr-6-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/llm-d/llm-d-router/pull/3524">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-6-dark.svg">
-  <img alt="llm-d/llm-d-router: fix(epp): translate Responses tool-call turns on the legacy render path" src="profile/pr-6-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-7-dark.svg">
+  <img alt="llm-d/llm-d-router: fix(epp): translate Responses tool-call turns on the legacy render path" src="profile/pr-7-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/pulumi/pulumi-kubernetes-operator/pull/1387">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-7-dark.svg">
-  <img alt="pulumi/pulumi-kubernetes-operator: Count stalled Stacks in the stacks_failing metric" src="profile/pr-7-light.svg" width="49%">
-</picture>
-</a>
-<a href="https://github.com/kubescape/storage/pull/430">
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/pr-8-dark.svg">
-  <img alt="kubescape/storage: feat(watch): replay initial events and send the end-of-list bookmark for watch lists" src="profile/pr-8-light.svg" width="49%">
+  <img alt="pulumi/pulumi-kubernetes-operator: Count stalled Stacks in the stacks_failing metric" src="profile/pr-8-light.svg" width="49%">
 </picture>
 </a>
 </p>
 
-<sub>[All 34 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
+<sub>[All 35 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
 
 ### Projects
 
@@ -93,7 +93,7 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 <tr>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Allm-d&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/211385051?v=4&s=64" width="48" height="48" alt="llm-d"><br><sub><b>llm-d</b></sub></a><br><sub>12 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Akubescape&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/100554170?v=4&s=64" width="48" height="48" alt="kubescape"><br><sub><b>kubescape</b></sub></a><br><sub>10 merged</sub></td>
-<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Apulumi&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/21992475?v=4&s=64" width="48" height="48" alt="pulumi"><br><sub><b>pulumi</b></sub></a><br><sub>3 merged</sub></td>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Apulumi&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/21992475?v=4&s=64" width="48" height="48" alt="pulumi"><br><sub><b>pulumi</b></sub></a><br><sub>4 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Aaws-controllers-k8s&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/78112587?v=4&s=64" width="48" height="48" alt="aws-controllers-k8s"><br><sub><b>aws-controllers-k8s</b></sub></a><br><sub>2 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3ANVIDIA&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/1728152?v=4&s=64" width="48" height="48" alt="NVIDIA"><br><sub><b>NVIDIA</b></sub></a><br><sub>1 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3AGoogleCloudPlatform&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/2810941?v=4&s=64" width="48" height="48" alt="GoogleCloudPlatform"><br><sub><b>GoogleCloudPlatform</b></sub></a><br><sub>1 merged</sub></td>
@@ -147,23 +147,23 @@ Open pull requests in 23 more organisations:
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-languages-dark.svg">
-  <img alt="Lines changed by language in merged pull requests: Go 5.9k, YAML 846, Markdown 403, Shell 81, TypeScript 17, HCL 2, Python 1" src="profile/oss-languages-light.svg" width="49%">
+  <img alt="Lines changed by language in merged pull requests: Go 5.9k, YAML 850, Markdown 403, Shell 81, TypeScript 17, HCL 2, Python 1" src="profile/oss-languages-light.svg" width="49%">
 </picture>
 </p>
 
 <details>
-<summary>All 72 projects, including 85 open pull requests</summary>
+<summary>All 72 projects, including 84 open pull requests</summary>
 
 | Project | Stars | Merged | Reviewed | Open |
 | --- | ---: | ---: | ---: | ---: |
 | [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 428 | [7](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [21](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [6](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
-| [kubescape/operator](https://github.com/kubescape/operator) | 24 | [5](https://github.com/kubescape/operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [1](https://github.com/kubescape/operator/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/kubescape/operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [kubescape/operator](https://github.com/kubescape/operator) | 25 | [5](https://github.com/kubescape/operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [1](https://github.com/kubescape/operator/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/kubescape/operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [llm-d/llm-d](https://github.com/llm-d/llm-d) | 4.9k | [4](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [4](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [2](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/helm-charts](https://github.com/kubescape/helm-charts) | 42 | [2](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [2](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [pulumi/pulumi](https://github.com/pulumi/pulumi) | 25.8k | [2](https://github.com/pulumi/pulumi/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [5](https://github.com/pulumi/pulumi/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) | 293 | [2](https://github.com/pulumi/pulumi-kubernetes-operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [kubescape/kubevuln](https://github.com/kubescape/kubevuln) | 27 | [1](https://github.com/kubescape/kubevuln/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [3](https://github.com/kubescape/kubevuln/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/kubescape/kubevuln/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
-| [kubescape/storage](https://github.com/kubescape/storage) | 5 | [1](https://github.com/kubescape/storage/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [1](https://github.com/kubescape/storage/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [2](https://github.com/kubescape/storage/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
-| [pulumi/pulumi](https://github.com/pulumi/pulumi) | 25.8k | [1](https://github.com/pulumi/pulumi/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [6](https://github.com/pulumi/pulumi/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [kubescape/storage](https://github.com/kubescape/storage) | 6 | [1](https://github.com/kubescape/storage/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [1](https://github.com/kubescape/storage/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [2](https://github.com/kubescape/storage/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) | 410 | [1](https://github.com/NVIDIA/NVSentinel/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [2](https://github.com/NVIDIA/NVSentinel/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [GoogleCloudPlatform/cluster-toolkit](https://github.com/GoogleCloudPlatform/cluster-toolkit) | 366 | [1](https://github.com/GoogleCloudPlatform/cluster-toolkit/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [aws-controllers-k8s/rds-controller](https://github.com/aws-controllers-k8s/rds-controller) | 103 | [1](https://github.com/aws-controllers-k8s/rds-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [1](https://github.com/aws-controllers-k8s/rds-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
