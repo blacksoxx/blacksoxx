@@ -6,17 +6,17 @@
 <line x1="182" y1="56" x2="182" y2="190" stroke="#c3c2b7"/>
 <text x="170" y="67" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Go</text>
 <path d="M182,56 h182 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-182 z" fill="#2a78d6"/>
-<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">6.7k</text>
+<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">10.2k</text>
 <text x="170" y="97" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">YAML</text>
-<path d="M182,86 h22.2666 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-22.2666 z" fill="#2a78d6"/>
-<text x="216.267" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">948</text>
+<path d="M182,86 h33.1963 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-33.1963 z" fill="#2a78d6"/>
+<text x="227.196" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2k</text>
 <text x="170" y="127" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Markdown</text>
-<path d="M182,116 h7.1661 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-7.1661 z" fill="#2a78d6"/>
-<text x="201.166" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">403</text>
-<text x="170" y="157" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Shell</text>
-<rect x="182" y="146" width="2.2443" height="14" fill="#2a78d6"/>
-<text x="192.244" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">81</text>
-<text x="170" y="187" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Python</text>
+<rect x="182" y="116" width="7.3734" height="14" fill="#2a78d6"/>
+<text x="197.373" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">403</text>
+<text x="170" y="157" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Python</text>
+<rect x="182" y="146" width="3.89711" height="14" fill="#2a78d6"/>
+<text x="193.897" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">213</text>
+<text x="170" y="187" font-size="12" font-weight="400" fill="#52514e" text-anchor="end">Shell</text>
 <rect x="182" y="176" width="2" height="14" fill="#2a78d6"/>
-<text x="192" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">26</text>
+<text x="192" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">81</text>
 </svg>
