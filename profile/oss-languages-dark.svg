@@ -6,16 +6,16 @@
 <line x1="182" y1="56" x2="182" y2="190" stroke="#383835"/>
 <text x="170" y="67" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Go</text>
 <path d="M182,56 h182 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-182 z" fill="#3987e5"/>
-<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">10.2k</text>
+<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">11k</text>
 <text x="170" y="97" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">YAML</text>
-<path d="M182,86 h33.1964 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-33.1964 z" fill="#3987e5"/>
-<text x="227.196" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2k</text>
+<path d="M182,86 h38.8448 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-38.8448 z" fill="#3987e5"/>
+<text x="232.845" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2.5k</text>
 <text x="170" y="127" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Markdown</text>
-<rect x="182" y="116" width="7.35171" height="14" fill="#3987e5"/>
-<text x="197.352" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">403</text>
+<rect x="182" y="116" width="6.83549" height="14" fill="#3987e5"/>
+<text x="196.835" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">403</text>
 <text x="170" y="157" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Python</text>
-<rect x="182" y="146" width="3.88564" height="14" fill="#3987e5"/>
-<text x="193.886" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">213</text>
+<rect x="182" y="146" width="6.02134" height="14" fill="#3987e5"/>
+<text x="196.021" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">355</text>
 <text x="170" y="187" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Shell</text>
 <rect x="182" y="176" width="2" height="14" fill="#3987e5"/>
 <text x="192" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">81</text>
