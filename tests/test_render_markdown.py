@@ -2,7 +2,7 @@ from datetime import date
 
 import pytest
 
-from profile_readme.format import compact, plural, pretty_date, weekly, within_days
+from profile_readme.format import compact, plural, pretty_date, weekly
 from profile_readme.render_markdown import (
     END,
     START,
@@ -28,7 +28,6 @@ def test_format_helpers():
     assert pretty_date("2026-10-03T09:00:00Z") == "3 Oct 2026"
     stamps = ["2026-10-03T09:00:00Z", "2026-09-22T09:00:00Z", "2026-07-01T00:00:00Z"]
     assert weekly(stamps, date(2026, 10, 14), 4) == [1, 1, 0, 0]
-    assert within_days(stamps, date(2026, 10, 14), 30) == 2
 
 
 def test_cards_are_newest_first_and_linked(data):

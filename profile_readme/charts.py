@@ -12,7 +12,7 @@ from __future__ import annotations
 from datetime import timedelta
 from xml.sax.saxutils import escape
 
-from .format import compact, parse_day, pretty_date, week_start, weekly, within_days
+from .format import compact, parse_day, pretty_date, week_start, weekly
 from .palette import FONT, MODES
 
 CHAR_WIDTH = 0.56
@@ -26,7 +26,6 @@ CARD_WIDTH = 440
 CARD_HEIGHT = 118
 TITLE_CHARS = 50
 WEEKS = 12
-DELTA_DAYS = 30
 
 
 def text(
@@ -116,7 +115,7 @@ def frame(width: int, height: int, title: str, body: list[str], mode: str, defs:
 def stat_card(
     title: str,
     subtitle: str,
-    stats: list[tuple[str, int, str | None]],
+    stats: list[tuple[str, int]],
     mode: str,
     width: int = 840,
 ) -> str:
@@ -128,14 +127,10 @@ def stat_card(
         f'<line x1="{pad}" y1="68" x2="{width - pad}" y2="68" stroke="{tokens["grid"]}"/>',
     ]
     col = (width - 2 * pad) / max(len(stats), 1)
-    for index, (label, value, delta) in enumerate(stats):
+    for index, (label, value) in enumerate(stats):
         x = pad + index * col
-        figure = compact(value)
         body.append(text(x, 96, label, 12, tokens["ink_secondary"]))
-        body.append(text(x, 132, figure, 30, tokens["ink"], weight=600))
-        if delta:
-            offset = len(figure) * 30 * 0.62 + 10
-            body.append(text(x + offset, 132, delta, 12, tokens["delta_up"], weight=600))
+        body.append(text(x, 132, compact(value), 30, tokens["ink"], weight=600))
     return frame(width, 156, title, body, mode)
 
 
@@ -292,15 +287,11 @@ def render_all(data: dict) -> dict[str, str]:
     issues = data["issues"]
     merged_projects = sum(1 for p in projects.values() if p["merged"])
 
-    def delta(stamps: list[str]) -> str | None:
-        recent = within_days(stamps, now, DELTA_DAYS)
-        return f"+{recent} in {DELTA_DAYS} days" if recent else None
-
     stats = [
-        ("Merged pull requests", len(merged), delta([p["merged_at"] for p in merged])),
-        ("Reviews", len(reviewed), delta([r["reviewed_at"] for r in reviewed])),
-        ("Issues opened", len(issues), delta([i["created_at"] for i in issues])),
-        ("Projects merged into", merged_projects, None),
+        ("Merged pull requests", len(merged)),
+        ("Reviews", len(reviewed)),
+        ("Issues opened", len(issues)),
+        ("Projects merged into", merged_projects),
     ]
 
     first_week = week_start(now) - timedelta(weeks=WEEKS - 1)

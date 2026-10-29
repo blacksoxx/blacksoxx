@@ -49,8 +49,3 @@ def weekly(stamps: list[str], now: date, weeks: int) -> list[int]:
         if 0 <= index < weeks:
             counts[index] += 1
     return counts
-
-
-def within_days(stamps: list[str], now: date, days: int) -> int:
-    floor = now - timedelta(days=days)
-    return sum(1 for stamp in stamps if parse_day(stamp) > floor)

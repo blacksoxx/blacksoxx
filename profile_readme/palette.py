@@ -15,7 +15,6 @@ MODES = {
         "ink": "#0b0b0b",
         "ink_secondary": "#52514e",
         "ink_muted": "#898781",
-        "delta_up": "#006300",
         "grid": "#e1e0d9",
         "baseline": "#c3c2b7",
         "series": "#2a78d6",
@@ -28,7 +27,6 @@ MODES = {
         "ink": "#f0efec",
         "ink_secondary": "#c3c2b7",
         "ink_muted": "#898781",
-        "delta_up": "#0ca30c",
         "grid": "#2c2c2a",
         "baseline": "#383835",
         "series": "#3987e5",
@@ -36,5 +34,5 @@ MODES = {
     },
 }
 
-TEXT_ROLES = ("ink", "ink_secondary", "ink_muted", "delta_up")
+TEXT_ROLES = ("ink", "ink_secondary", "ink_muted")
 SERIES_ROLES = ("series", "series_2")

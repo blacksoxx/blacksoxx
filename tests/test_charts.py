@@ -40,23 +40,20 @@ def test_charts_are_deterministic(data):
     assert render_all(data) == render_all(data)
 
 
-def test_summary_card_lists_the_figures_and_deltas(data):
+def test_summary_card_lists_the_four_figures(data):
     svg = render_all(data)["oss-summary-light.svg"]
     labels = re.findall(r">([^<]+)</text>", svg)
     assert labels[2:] == [
         "Merged pull requests",
         "3",
-        "+3 in 30 days",
         "Reviews",
         "1",
-        "+1 in 30 days",
         "Issues opened",
         "1",
-        "+1 in 30 days",
         "Projects merged into",
         "2",
     ]
-    assert svg.count(MODES["light"]["delta_up"]) == 3
+    assert "30 days" not in svg
 
 
 def test_pr_card_shows_repo_title_footer_and_avatar(data):
