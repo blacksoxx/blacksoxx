@@ -29,70 +29,70 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-summary-dark.svg">
-  <img alt="Open source summary: 92 merged pull requests, 160 reviews, 90 issues opened, 41 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
+  <img alt="Open source summary: 93 merged pull requests, 160 reviews, 93 issues opened, 41 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
 </picture>
 
 ### Recent merged work
 
 <p align="center">
-<a href="https://github.com/llm-d/llm-d-router/pull/3653">
+<a href="https://github.com/llm-d/llm-d-router/pull/3815">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/pr-1-dark.svg">
-  <img alt="llm-d/llm-d-router: coordinator(async-broker): clamp the enqueue timeout to avoid overflow" src="profile/pr-1-light.svg" width="49%">
+  <img alt="llm-d/llm-d-router: coordinator(async-broker): keep waitPollInterval&#x27;s doc on its own declaration" src="profile/pr-1-light.svg" width="49%">
+</picture>
+</a>
+<a href="https://github.com/llm-d/llm-d-router/pull/3653">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-2-dark.svg">
+  <img alt="llm-d/llm-d-router: coordinator(async-broker): clamp the enqueue timeout to avoid overflow" src="profile/pr-2-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/NVIDIA/NVSentinel/pull/2201">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-2-dark.svg">
-  <img alt="NVIDIA/NVSentinel: fix(fault-quarantine): reject a non-positive circuit breaker window" src="profile/pr-2-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-3-dark.svg">
+  <img alt="NVIDIA/NVSentinel: fix(fault-quarantine): reject a non-positive circuit breaker window" src="profile/pr-3-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/aws-controllers-k8s/ec2-controller/pull/388">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-3-dark.svg">
-  <img alt="aws-controllers-k8s/ec2-controller: fix(subnet): late-initialize AssignIpv6AddressOnCreation to stop ModifySubnetAttribute on every resync" src="profile/pr-3-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-4-dark.svg">
+  <img alt="aws-controllers-k8s/ec2-controller: fix(subnet): late-initialize AssignIpv6AddressOnCreation to stop ModifySubnetAttribute on every resync" src="profile/pr-4-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/aws-controllers-k8s/wafv2-controller/pull/81">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-4-dark.svg">
-  <img alt="aws-controllers-k8s/wafv2-controller: fix: late-initialize WebACL LoggingConfiguration LogScope and ManagedByFirewallManager to stop the update loop" src="profile/pr-4-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-5-dark.svg">
+  <img alt="aws-controllers-k8s/wafv2-controller: fix: late-initialize WebACL LoggingConfiguration LogScope and ManagedByFirewallManager to stop the update loop" src="profile/pr-5-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/llm-d/llm-d-router/pull/3652">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-5-dark.svg">
-  <img alt="llm-d/llm-d-router: epp(vllmgrpc): return no usage for an empty end-of-stream body" src="profile/pr-5-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-6-dark.svg">
+  <img alt="llm-d/llm-d-router: epp(vllmgrpc): return no usage for an empty end-of-stream body" src="profile/pr-6-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/llm-d/llm-d-router/pull/3480">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-6-dark.svg">
-  <img alt="llm-d/llm-d-router: fix(epp): read Responses stream usage from every terminal event" src="profile/pr-6-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-7-dark.svg">
+  <img alt="llm-d/llm-d-router: fix(epp): read Responses stream usage from every terminal event" src="profile/pr-7-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/aws-controllers-k8s/pkg/pull/52">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-7-dark.svg">
-  <img alt="aws-controllers-k8s/pkg: feat(names): add the HEC initialism" src="profile/pr-7-light.svg" width="49%">
-</picture>
-</a>
-<a href="https://github.com/llm-d/llm-d-router/pull/3655">
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/pr-8-dark.svg">
-  <img alt="llm-d/llm-d-router: sidecar: key the prefiller proxy cache on the scheme-trimmed target" src="profile/pr-8-light.svg" width="49%">
+  <img alt="aws-controllers-k8s/pkg: feat(names): add the HEC initialism" src="profile/pr-8-light.svg" width="49%">
 </picture>
 </a>
 </p>
 
-<sub>[All 92 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
+<sub>[All 93 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
 
 ### Projects
 
 <table>
 <tr>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Akubescape&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/100554170?v=4&s=64" width="48" height="48" alt="kubescape"><br><sub><b>kubescape</b></sub></a><br><sub>32 merged</sub></td>
-<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Allm-d&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/211385051?v=4&s=64" width="48" height="48" alt="llm-d"><br><sub><b>llm-d</b></sub></a><br><sub>19 merged</sub></td>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Allm-d&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/211385051?v=4&s=64" width="48" height="48" alt="llm-d"><br><sub><b>llm-d</b></sub></a><br><sub>20 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Aaws-controllers-k8s&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/78112587?v=4&s=64" width="48" height="48" alt="aws-controllers-k8s"><br><sub><b>aws-controllers-k8s</b></sub></a><br><sub>18 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Apulumi&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/21992475?v=4&s=64" width="48" height="48" alt="pulumi"><br><sub><b>pulumi</b></sub></a><br><sub>4 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3ANVIDIA&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/1728152?v=4&s=64" width="48" height="48" alt="NVIDIA"><br><sub><b>NVIDIA</b></sub></a><br><sub>4 merged</sub></td>
@@ -148,7 +148,7 @@ Open pull requests in 21 more organisations:
 ### Reviews and issues
 
 - Reviewed [160 pull requests](https://github.com/search?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx&type=pullrequests) in [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router), [loft-sh/vcluster](https://github.com/loft-sh/vcluster), [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) and 41 more.
-- Opened [90 issues](https://github.com/search?q=is%3Aissue+author%3Ablacksoxx+-user%3Ablacksoxx&type=issues) in [finopsfoundation/focus_validator](https://github.com/finopsfoundation/focus_validator), [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router), [kubescape/operator](https://github.com/kubescape/operator) and 24 more.
+- Opened [93 issues](https://github.com/search?q=is%3Aissue+author%3Ablacksoxx+-user%3Ablacksoxx&type=issues) in [finopsfoundation/focus_validator](https://github.com/finopsfoundation/focus_validator), [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router), [kubescape/operator](https://github.com/kubescape/operator) and 25 more.
 
 <p align="center">
 <picture>
@@ -162,11 +162,11 @@ Open pull requests in 21 more organisations:
 </p>
 
 <details>
-<summary>All 111 projects, including 104 open pull requests</summary>
+<summary>All 112 projects, including 106 open pull requests</summary>
 
 | Project | Stars | Merged | Reviewed | Open |
 | --- | ---: | ---: | ---: | ---: |
-| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 440 | [14](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [35](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [4](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 440 | [15](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [35](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [3](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/operator](https://github.com/kubescape/operator) | 25 | [9](https://github.com/kubescape/operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [1](https://github.com/kubescape/operator/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [kubescape/storage](https://github.com/kubescape/storage) | 6 | [7](https://github.com/kubescape/storage/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [4](https://github.com/kubescape/storage/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [kubescape/helm-charts](https://github.com/kubescape/helm-charts) | 42 | [6](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [2](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
@@ -188,7 +188,7 @@ Open pull requests in 21 more organisations:
 | [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) | 5.7k | [1](https://github.com/kgateway-dev/kgateway/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) | 1.7k | [1](https://github.com/dragonflyoss/nydus/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [dapr/components-contrib](https://github.com/dapr/components-contrib) | 606 | [1](https://github.com/dapr/components-contrib/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
-| [GoogleCloudPlatform/cluster-toolkit](https://github.com/GoogleCloudPlatform/cluster-toolkit) | 367 | [1](https://github.com/GoogleCloudPlatform/cluster-toolkit/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
+| [GoogleCloudPlatform/cluster-toolkit](https://github.com/GoogleCloudPlatform/cluster-toolkit) | 368 | [1](https://github.com/GoogleCloudPlatform/cluster-toolkit/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [FluidifyAI/Regen](https://github.com/FluidifyAI/Regen) | 93 | [1](https://github.com/FluidifyAI/Regen/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [aws-controllers-k8s/s3-controller](https://github.com/aws-controllers-k8s/s3-controller) | 71 | [1](https://github.com/aws-controllers-k8s/s3-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [k0sproject/rig](https://github.com/k0sproject/rig) | 55 | [1](https://github.com/k0sproject/rig/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
@@ -199,7 +199,7 @@ Open pull requests in 21 more organisations:
 | [aws-controllers-k8s/ecs-controller](https://github.com/aws-controllers-k8s/ecs-controller) | 5 | [1](https://github.com/aws-controllers-k8s/ecs-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [aws-controllers-k8s/bedrockagentcorecontrol-controller](https://github.com/aws-controllers-k8s/bedrockagentcorecontrol-controller) | 4 | [1](https://github.com/aws-controllers-k8s/bedrockagentcorecontrol-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [aws-controllers-k8s/eventbridge-controller](https://github.com/aws-controllers-k8s/eventbridge-controller) | 4 | [1](https://github.com/aws-controllers-k8s/eventbridge-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
-| [raedbrahem/bumpcheck](https://github.com/raedbrahem/bumpcheck) | 4 | [1](https://github.com/raedbrahem/bumpcheck/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
+| [raedbrahem/bumpcheck](https://github.com/raedbrahem/bumpcheck) | 3 | [1](https://github.com/raedbrahem/bumpcheck/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [aws-controllers-k8s/cloudwatchlogs-controller](https://github.com/aws-controllers-k8s/cloudwatchlogs-controller) | 2 | [1](https://github.com/aws-controllers-k8s/cloudwatchlogs-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [aws-controllers-k8s/pkg](https://github.com/aws-controllers-k8s/pkg) | 2 | [1](https://github.com/aws-controllers-k8s/pkg/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [kubescape/prometheus-exporter](https://github.com/kubescape/prometheus-exporter) | 2 | [1](https://github.com/kubescape/prometheus-exporter/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
@@ -207,7 +207,7 @@ Open pull requests in 21 more organisations:
 | [aws-controllers-k8s/firehose-controller](https://github.com/aws-controllers-k8s/firehose-controller) | 1 | [1](https://github.com/aws-controllers-k8s/firehose-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [1](https://github.com/aws-controllers-k8s/firehose-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [aws-controllers-k8s/s3control-controller](https://github.com/aws-controllers-k8s/s3control-controller) | 1 | [1](https://github.com/aws-controllers-k8s/s3control-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 
-<sub>…and 71 more.</sub>
+<sub>…and 72 more.</sub>
 
 </details>
 
