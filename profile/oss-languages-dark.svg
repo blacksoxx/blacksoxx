@@ -8,14 +8,14 @@
 <path d="M182,56 h182 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-182 z" fill="#3987e5"/>
 <text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">15k</text>
 <text x="170" y="97" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">YAML</text>
-<path d="M182,86 h31.8995 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-31.8995 z" fill="#3987e5"/>
-<text x="225.9" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">2.9k</text>
+<path d="M182,86 h32.7896 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-32.7896 z" fill="#3987e5"/>
+<text x="226.79" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">3k</text>
 <text x="170" y="127" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Python</text>
 <rect x="182" y="116" width="6.02034" height="14" fill="#3987e5"/>
 <text x="196.02" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">487</text>
 <text x="170" y="157" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Markdown</text>
-<rect x="182" y="146" width="5.3157" height="14" fill="#3987e5"/>
-<text x="195.316" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">430</text>
+<rect x="182" y="146" width="5.58766" height="14" fill="#3987e5"/>
+<text x="195.588" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">452</text>
 <text x="170" y="187" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">TypeScript</text>
 <rect x="182" y="176" width="2" height="14" fill="#3987e5"/>
 <text x="192" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">102</text>
