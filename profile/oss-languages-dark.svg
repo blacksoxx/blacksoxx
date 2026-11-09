@@ -6,16 +6,16 @@
 <line x1="182" y1="56" x2="182" y2="190" stroke="#383835"/>
 <text x="170" y="67" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Go</text>
 <path d="M182,56 h182 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-182 z" fill="#3987e5"/>
-<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">16k</text>
+<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">16.1k</text>
 <text x="170" y="97" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">YAML</text>
-<path d="M182,86 h31.5132 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-31.5132 z" fill="#3987e5"/>
-<text x="225.513" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">3.1k</text>
+<path d="M182,86 h32.6245 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-32.6245 z" fill="#3987e5"/>
+<text x="226.624" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">3.2k</text>
 <text x="170" y="127" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Markdown</text>
-<rect x="182" y="116" width="5.75042" height="14" fill="#3987e5"/>
-<text x="195.75" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">495</text>
+<rect x="182" y="116" width="5.72077" height="14" fill="#3987e5"/>
+<text x="195.721" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">495</text>
 <text x="170" y="157" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Python</text>
-<rect x="182" y="146" width="5.65749" height="14" fill="#3987e5"/>
-<text x="195.657" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">487</text>
+<rect x="182" y="146" width="5.62831" height="14" fill="#3987e5"/>
+<text x="195.628" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">487</text>
 <text x="170" y="187" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">TypeScript</text>
 <rect x="182" y="176" width="2" height="14" fill="#3987e5"/>
 <text x="192" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">102</text>
