@@ -29,63 +29,63 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-summary-dark.svg">
-  <img alt="Open source summary: 106 merged pull requests, 236 reviews, 119 issues opened, 45 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
+  <img alt="Open source summary: 107 merged pull requests, 236 reviews, 119 issues opened, 46 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
 </picture>
 
 ### Recent merged work
 
 <p align="center">
-<a href="https://github.com/GoogleCloudPlatform/opentelemetry-operations-collector/pull/785">
+<a href="https://github.com/aws-controllers-k8s/athena-controller/pull/71">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/pr-1-dark.svg">
-  <img alt="GoogleCloudPlatform/opentelemetry-operations-collector: fix(googlecontrolplaneprovider): cap trace batches at 8192 spans" src="profile/pr-1-light.svg" width="49%">
+  <img alt="aws-controllers-k8s/athena-controller: fix: skip UpdateWorkGroup and UpdateDataCatalog on tags-only updates" src="profile/pr-1-light.svg" width="49%">
+</picture>
+</a>
+<a href="https://github.com/GoogleCloudPlatform/opentelemetry-operations-collector/pull/785">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-2-dark.svg">
+  <img alt="GoogleCloudPlatform/opentelemetry-operations-collector: fix(googlecontrolplaneprovider): cap trace batches at 8192 spans" src="profile/pr-2-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/GoogleCloudPlatform/opentelemetry-operations-collector/pull/792">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-2-dark.svg">
-  <img alt="GoogleCloudPlatform/opentelemetry-operations-collector: fix(googlecontrolplaneprovider): write queue_batch sizer names explicitly" src="profile/pr-2-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-3-dark.svg">
+  <img alt="GoogleCloudPlatform/opentelemetry-operations-collector: fix(googlecontrolplaneprovider): write queue_batch sizer names explicitly" src="profile/pr-3-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/llm-d/llm-d-router/pull/3482">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-3-dark.svg">
-  <img alt="llm-d/llm-d-router: fix(request): drop an enabled thinking from the single-token Messages leg" src="profile/pr-3-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-4-dark.svg">
+  <img alt="llm-d/llm-d-router: fix(request): drop an enabled thinking from the single-token Messages leg" src="profile/pr-4-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/llm-d/llm-d-router/pull/4046">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-4-dark.svg">
-  <img alt="llm-d/llm-d-router: epp: log the error that stops a file-discovery run" src="profile/pr-4-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-5-dark.svg">
+  <img alt="llm-d/llm-d-router: epp: log the error that stops a file-discovery run" src="profile/pr-5-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/GoogleCloudPlatform/k8s-aibom/pull/347">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-5-dark.svg">
-  <img alt="GoogleCloudPlatform/k8s-aibom: Declare spec.discovery.workloadKinds in v1alpha1" src="profile/pr-5-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-6-dark.svg">
+  <img alt="GoogleCloudPlatform/k8s-aibom: Declare spec.discovery.workloadKinds in v1alpha1" src="profile/pr-6-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/llm-d/llm-d/pull/2850">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-6-dark.svg">
-  <img alt="llm-d/llm-d: docs(digitalocean): group the queue-size panel by model_server_endpoint" src="profile/pr-6-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-7-dark.svg">
+  <img alt="llm-d/llm-d: docs(digitalocean): group the queue-size panel by model_server_endpoint" src="profile/pr-7-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/llm-d/llm-d-router/pull/3654">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-7-dark.svg">
-  <img alt="llm-d/llm-d-router: coordinator: reject a non-boolean stream field" src="profile/pr-7-light.svg" width="49%">
-</picture>
-</a>
-<a href="https://github.com/NVIDIA/NVSentinel/pull/2163">
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/pr-8-dark.svg">
-  <img alt="NVIDIA/NVSentinel: fix(fault-quarantine): compact the health events annotation after an escalation" src="profile/pr-8-light.svg" width="49%">
+  <img alt="llm-d/llm-d-router: coordinator: reject a non-boolean stream field" src="profile/pr-8-light.svg" width="49%">
 </picture>
 </a>
 </p>
 
-<sub>[All 106 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
+<sub>[All 107 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
 
 ### Projects
 
@@ -93,7 +93,7 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 <tr>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Akubescape&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/100554170?v=4&s=64" width="48" height="48" alt="kubescape"><br><sub><b>kubescape</b></sub></a><br><sub>33 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Allm-d&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/211385051?v=4&s=64" width="48" height="48" alt="llm-d"><br><sub><b>llm-d</b></sub></a><br><sub>25 merged</sub></td>
-<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Aaws-controllers-k8s&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/78112587?v=4&s=64" width="48" height="48" alt="aws-controllers-k8s"><br><sub><b>aws-controllers-k8s</b></sub></a><br><sub>18 merged</sub></td>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Aaws-controllers-k8s&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/78112587?v=4&s=64" width="48" height="48" alt="aws-controllers-k8s"><br><sub><b>aws-controllers-k8s</b></sub></a><br><sub>19 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3ANVIDIA&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/1728152?v=4&s=64" width="48" height="48" alt="NVIDIA"><br><sub><b>NVIDIA</b></sub></a><br><sub>6 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Apulumi&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/21992475?v=4&s=64" width="48" height="48" alt="pulumi"><br><sub><b>pulumi</b></sub></a><br><sub>4 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3AGoogleCloudPlatform&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/2810941?v=4&s=64" width="48" height="48" alt="GoogleCloudPlatform"><br><sub><b>GoogleCloudPlatform</b></sub></a><br><sub>4 merged</sub></td>
@@ -159,12 +159,12 @@ Open pull requests in 23 more organisations:
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-languages-dark.svg">
-  <img alt="Lines changed by language in merged pull requests: Go 16.1k, YAML 3.2k, Markdown 495, Python 487, TypeScript 102, Shell 81, Rust 58, JSON 26, HCL 2" src="profile/oss-languages-light.svg" width="49%">
+  <img alt="Lines changed by language in merged pull requests: Go 16.3k, YAML 3.2k, Markdown 495, Python 487, TypeScript 102, Shell 81, Rust 58, JSON 26, HCL 2" src="profile/oss-languages-light.svg" width="49%">
 </picture>
 </p>
 
 <details>
-<summary>All 128 projects, including 149 open pull requests</summary>
+<summary>All 128 projects, including 148 open pull requests</summary>
 
 | Project | Stars | Merged | Reviewed | Open |
 | --- | ---: | ---: | ---: | ---: |
