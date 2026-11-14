@@ -29,63 +29,63 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-summary-dark.svg">
-  <img alt="Open source summary: 116 merged pull requests, 260 reviews, 131 issues opened, 51 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
+  <img alt="Open source summary: 117 merged pull requests, 258 reviews, 131 issues opened, 52 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
 </picture>
 
 ### Recent merged work
 
 <p align="center">
-<a href="https://github.com/upbound/provider-upjet-civo/pull/51">
+<a href="https://github.com/argoproj/argo-events/pull/4224">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/pr-1-dark.svg">
-  <img alt="upbound/provider-upjet-civo: Hand the token to the upstream provider through credentials_file" src="profile/pr-1-light.svg" width="49%">
+  <img alt="argoproj/argo-events: fix: encrypt the JetStream store with the generated key, not the literal $JS_KEY" src="profile/pr-1-light.svg" width="49%">
+</picture>
+</a>
+<a href="https://github.com/upbound/provider-upjet-civo/pull/51">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-2-dark.svg">
+  <img alt="upbound/provider-upjet-civo: Hand the token to the upstream provider through credentials_file" src="profile/pr-2-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/NVIDIA/NVSentinel/pull/2287">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-2-dark.svg">
-  <img alt="NVIDIA/NVSentinel: fix(fault-quarantine): do not overwrite an operator&#x27;s taint on fresh quarantine" src="profile/pr-2-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-3-dark.svg">
+  <img alt="NVIDIA/NVSentinel: fix(fault-quarantine): do not overwrite an operator&#x27;s taint on fresh quarantine" src="profile/pr-3-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/kubescape/kubescape/pull/4822">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-3-dark.svg">
-  <img alt="kubescape/kubescape: fix(fixhandler): normalize a padded base path before storing it" src="profile/pr-3-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-4-dark.svg">
+  <img alt="kubescape/kubescape: fix(fixhandler): normalize a padded base path before storing it" src="profile/pr-4-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/gophercloud/gophercloud/pull/4044">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-4-dark.svg">
-  <img alt="gophercloud/gophercloud: compute: stop re-decoding server list pages in IsEmpty and NextPageURL" src="profile/pr-4-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-5-dark.svg">
+  <img alt="gophercloud/gophercloud: compute: stop re-decoding server list pages in IsEmpty and NextPageURL" src="profile/pr-5-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/aws-controllers-k8s/ec2-controller/pull/406">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-5-dark.svg">
-  <img alt="aws-controllers-k8s/ec2-controller: feat(instance): add securityGroupRefs" src="profile/pr-5-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-6-dark.svg">
+  <img alt="aws-controllers-k8s/ec2-controller: feat(instance): add securityGroupRefs" src="profile/pr-6-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/aws-controllers-k8s/elbv2-controller/pull/101">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-6-dark.svg">
-  <img alt="aws-controllers-k8s/elbv2-controller: fix(listener): stop perpetual diff on server-filled default actions" src="profile/pr-6-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-7-dark.svg">
+  <img alt="aws-controllers-k8s/elbv2-controller: fix(listener): stop perpetual diff on server-filled default actions" src="profile/pr-7-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/kai-scheduler/kai-resource-management/pull/201">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-7-dark.svg">
-  <img alt="kai-scheduler/kai-resource-management: fix(project-controller): honour the manual-override label on external namespaces" src="profile/pr-7-light.svg" width="49%">
-</picture>
-</a>
-<a href="https://github.com/kai-scheduler/gpu-fractioning/pull/183">
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/pr-8-dark.svg">
-  <img alt="kai-scheduler/gpu-fractioning: fix(mpsd): refuse to start MPS on a driver older than r615" src="profile/pr-8-light.svg" width="49%">
+  <img alt="kai-scheduler/kai-resource-management: fix(project-controller): honour the manual-override label on external namespaces" src="profile/pr-8-light.svg" width="49%">
 </picture>
 </a>
 </p>
 
-<sub>[All 116 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
+<sub>[All 117 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
 
 ### Projects
 
@@ -102,26 +102,27 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3AGoogleCloudPlatform&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/2810941?v=4&s=64" width="48" height="48" alt="GoogleCloudPlatform"><br><sub><b>GoogleCloudPlatform</b></sub></a><br><sub>4 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Aturbot&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/38865304?v=4&s=64" width="48" height="48" alt="turbot"><br><sub><b>turbot</b></sub></a><br><sub>2 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Akgateway-dev&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/186092512?v=4&s=64" width="48" height="48" alt="kgateway-dev"><br><sub><b>kgateway-dev</b></sub></a><br><sub>1 merged</sub></td>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Aargoproj&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/30269780?v=4&s=64" width="48" height="48" alt="argoproj"><br><sub><b>argoproj</b></sub></a><br><sub>1 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Aaws-cloudformation&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/19900777?v=4&s=64" width="48" height="48" alt="aws-cloudformation"><br><sub><b>aws-cloudformation</b></sub></a><br><sub>1 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Adragonflyoss&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/44993420?v=4&s=64" width="48" height="48" alt="dragonflyoss"><br><sub><b>dragonflyoss</b></sub></a><br><sub>1 merged</sub></td>
-<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Agophercloud&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/13769691?v=4&s=64" width="48" height="48" alt="gophercloud"><br><sub><b>gophercloud</b></sub></a><br><sub>1 merged</sub></td>
 </tr>
 <tr>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Agophercloud&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/13769691?v=4&s=64" width="48" height="48" alt="gophercloud"><br><sub><b>gophercloud</b></sub></a><br><sub>1 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Adapr&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/51932459?v=4&s=64" width="48" height="48" alt="dapr"><br><sub><b>dapr</b></sub></a><br><sub>1 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Aaws&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/2232217?v=4&s=64" width="48" height="48" alt="aws"><br><sub><b>aws</b></sub></a><br><sub>1 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3AFluidifyAI&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/242344720?v=4&s=64" width="48" height="48" alt="FluidifyAI"><br><sub><b>FluidifyAI</b></sub></a><br><sub>1 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Ak0sproject&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/72999283?v=4&s=64" width="48" height="48" alt="k0sproject"><br><sub><b>k0sproject</b></sub></a><br><sub>1 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3ADokploy&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/156882017?v=4&s=64" width="48" height="48" alt="Dokploy"><br><sub><b>Dokploy</b></sub></a><br><sub>1 merged</sub></td>
-<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Afalcosecurity&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/42391047?v=4&s=64" width="48" height="48" alt="falcosecurity"><br><sub><b>falcosecurity</b></sub></a><br><sub>1 merged</sub></td>
 </tr>
 <tr>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Afalcosecurity&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/42391047?v=4&s=64" width="48" height="48" alt="falcosecurity"><br><sub><b>falcosecurity</b></sub></a><br><sub>1 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Araedbrahem&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/94371470?v=4&s=64" width="48" height="48" alt="raedbrahem"><br><sub><b>raedbrahem</b></sub></a><br><sub>1 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Aseneca-innovation-center&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/312193867?v=4&s=64" width="48" height="48" alt="seneca-innovation-center"><br><sub><b>seneca-innovation-center</b></sub></a><br><sub>1 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Aupbound&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/31934484?v=4&s=64" width="48" height="48" alt="upbound"><br><sub><b>upbound</b></sub></a><br><sub>1 merged</sub></td>
 </tr>
 </table>
 
-Open pull requests in 25 more organisations:
+Open pull requests in 24 more organisations:
 
 <p>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Afinopsfoundation&type=pullrequests" title="finopsfoundation"><img src="https://avatars.githubusercontent.com/u/64022381?v=4&s=64" width="28" height="28" alt="finopsfoundation"></a>
@@ -133,7 +134,6 @@ Open pull requests in 25 more organisations:
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3ACheckmarx&type=pullrequests" title="Checkmarx"><img src="https://avatars.githubusercontent.com/u/15811295?v=4&s=64" width="28" height="28" alt="Checkmarx"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Akedacore&type=pullrequests" title="kedacore"><img src="https://avatars.githubusercontent.com/u/49917779?v=4&s=64" width="28" height="28" alt="kedacore"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Aopen-telemetry&type=pullrequests" title="open-telemetry"><img src="https://avatars.githubusercontent.com/u/49998002?v=4&s=64" width="28" height="28" alt="open-telemetry"></a>
-<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Aargoproj&type=pullrequests" title="argoproj"><img src="https://avatars.githubusercontent.com/u/30269780?v=4&s=64" width="28" height="28" alt="argoproj"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Aai-dynamo&type=pullrequests" title="ai-dynamo"><img src="https://avatars.githubusercontent.com/u/201626793?v=4&s=64" width="28" height="28" alt="ai-dynamo"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Acontainerd&type=pullrequests" title="containerd"><img src="https://avatars.githubusercontent.com/u/14037953?v=4&s=64" width="28" height="28" alt="containerd"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Azitadel&type=pullrequests" title="zitadel"><img src="https://avatars.githubusercontent.com/u/70011121?v=4&s=64" width="28" height="28" alt="zitadel"></a>
@@ -153,7 +153,7 @@ Open pull requests in 25 more organisations:
 
 ### Reviews and issues
 
-- Reviewed [260 pull requests](https://github.com/search?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx&type=pullrequests) in [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router), [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler), [loft-sh/vcluster](https://github.com/loft-sh/vcluster) and 55 more.
+- Reviewed [258 pull requests](https://github.com/search?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx&type=pullrequests) in [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router), [kai-scheduler/KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler), [loft-sh/vcluster](https://github.com/loft-sh/vcluster) and 54 more.
 - Opened [131 issues](https://github.com/search?q=is%3Aissue+author%3Ablacksoxx+-user%3Ablacksoxx&type=issues) in [finopsfoundation/focus_validator](https://github.com/finopsfoundation/focus_validator), [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router), [loft-sh/vcluster](https://github.com/loft-sh/vcluster) and 32 more.
 
 <p align="center">
@@ -163,20 +163,20 @@ Open pull requests in 25 more organisations:
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-languages-dark.svg">
-  <img alt="Lines changed by language in merged pull requests: Go 18.6k, YAML 3.4k, Markdown 561, Python 528, TypeScript 102, Shell 81, Rust 58, JSON 26, HCL 2" src="profile/oss-languages-light.svg" width="49%">
+  <img alt="Lines changed by language in merged pull requests: Go 18.7k, YAML 3.4k, Markdown 563, Python 528, TypeScript 102, Shell 81, Rust 58, JSON 26, HCL 2" src="profile/oss-languages-light.svg" width="49%">
 </picture>
 </p>
 
 <details>
-<summary>All 143 projects, including 167 open pull requests</summary>
+<summary>All 142 projects, including 166 open pull requests</summary>
 
 | Project | Stars | Merged | Reviewed | Open |
 | --- | ---: | ---: | ---: | ---: |
-| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 467 | [18](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [59](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 468 | [18](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [59](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/operator](https://github.com/kubescape/operator) | 25 | [10](https://github.com/kubescape/operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [3](https://github.com/kubescape/operator/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [kubescape/storage](https://github.com/kubescape/storage) | 6 | [7](https://github.com/kubescape/storage/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [6](https://github.com/kubescape/storage/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [llm-d/llm-d](https://github.com/llm-d/llm-d) | 5.3k | [6](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [8](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
-| [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) | 438 | [6](https://github.com/NVIDIA/NVSentinel/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [8](https://github.com/NVIDIA/NVSentinel/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
+| [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) | 439 | [6](https://github.com/NVIDIA/NVSentinel/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [8](https://github.com/NVIDIA/NVSentinel/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [kubescape/helm-charts](https://github.com/kubescape/helm-charts) | 42 | [6](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [2](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/kubevuln](https://github.com/kubescape/kubevuln) | 26 | [5](https://github.com/kubescape/kubevuln/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [3](https://github.com/kubescape/kubevuln/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/kubescape/kubevuln/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/synchronizer](https://github.com/kubescape/synchronizer) | 3 | [4](https://github.com/kubescape/synchronizer/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [3](https://github.com/kubescape/synchronizer/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
@@ -194,11 +194,12 @@ Open pull requests in 25 more organisations:
 | [aws-cloudformation/cfn-lint](https://github.com/aws-cloudformation/cfn-lint) | 2.6k | [1](https://github.com/aws-cloudformation/cfn-lint/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [4](https://github.com/aws-cloudformation/cfn-lint/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [2](https://github.com/aws-cloudformation/cfn-lint/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/kubescape](https://github.com/kubescape/kubescape) | 11.9k | [1](https://github.com/kubescape/kubescape/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [3](https://github.com/kubescape/kubescape/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [NVIDIA/nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) | 4.6k | [1](https://github.com/NVIDIA/nvidia-container-toolkit/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [2](https://github.com/NVIDIA/nvidia-container-toolkit/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
-| [aws/smithy-go](https://github.com/aws/smithy-go) | 259 | [1](https://github.com/aws/smithy-go/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [2](https://github.com/aws/smithy-go/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
-| [GoogleCloudPlatform/k8s-aibom](https://github.com/GoogleCloudPlatform/k8s-aibom) | 73 | [1](https://github.com/GoogleCloudPlatform/k8s-aibom/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [1](https://github.com/GoogleCloudPlatform/k8s-aibom/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
+| [aws/smithy-go](https://github.com/aws/smithy-go) | 259 | [1](https://github.com/aws/smithy-go/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [1](https://github.com/aws/smithy-go/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
+| [GoogleCloudPlatform/k8s-aibom](https://github.com/GoogleCloudPlatform/k8s-aibom) | 74 | [1](https://github.com/GoogleCloudPlatform/k8s-aibom/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [1](https://github.com/GoogleCloudPlatform/k8s-aibom/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [aws-controllers-k8s/wafv2-controller](https://github.com/aws-controllers-k8s/wafv2-controller) | 5 | [1](https://github.com/aws-controllers-k8s/wafv2-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [1](https://github.com/aws-controllers-k8s/wafv2-controller/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [aws-controllers-k8s/firehose-controller](https://github.com/aws-controllers-k8s/firehose-controller) | 1 | [1](https://github.com/aws-controllers-k8s/firehose-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [1](https://github.com/aws-controllers-k8s/firehose-controller/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [2](https://github.com/aws-controllers-k8s/firehose-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) | 5.7k | [1](https://github.com/kgateway-dev/kgateway/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
+| [argoproj/argo-events](https://github.com/argoproj/argo-events) | 2.7k | [1](https://github.com/argoproj/argo-events/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [1](https://github.com/argoproj/argo-events/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) | 1.7k | [1](https://github.com/dragonflyoss/nydus/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [gophercloud/gophercloud](https://github.com/gophercloud/gophercloud) | 1k | [1](https://github.com/gophercloud/gophercloud/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [dapr/components-contrib](https://github.com/dapr/components-contrib) | 605 | [1](https://github.com/dapr/components-contrib/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
@@ -211,9 +212,8 @@ Open pull requests in 25 more organisations:
 | [aws-controllers-k8s/test-infra](https://github.com/aws-controllers-k8s/test-infra) | 26 | [1](https://github.com/aws-controllers-k8s/test-infra/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [aws-controllers-k8s/sqs-controller](https://github.com/aws-controllers-k8s/sqs-controller) | 11 | [1](https://github.com/aws-controllers-k8s/sqs-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [aws-controllers-k8s/elbv2-controller](https://github.com/aws-controllers-k8s/elbv2-controller) | 7 | [1](https://github.com/aws-controllers-k8s/elbv2-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
-| [aws-controllers-k8s/ecs-controller](https://github.com/aws-controllers-k8s/ecs-controller) | 5 | [1](https://github.com/aws-controllers-k8s/ecs-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 
-<sub>…and 103 more.</sub>
+<sub>…and 102 more.</sub>
 
 </details>
 
