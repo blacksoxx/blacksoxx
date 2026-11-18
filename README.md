@@ -131,7 +131,6 @@ Open pull requests in 24 more organisations:
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Ahashicorp&type=pullrequests" title="hashicorp"><img src="https://avatars.githubusercontent.com/u/761456?v=4&s=64" width="28" height="28" alt="hashicorp"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Arancher&type=pullrequests" title="rancher"><img src="https://avatars.githubusercontent.com/u/9343010?v=4&s=64" width="28" height="28" alt="rancher"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3ACheckmarx&type=pullrequests" title="Checkmarx"><img src="https://avatars.githubusercontent.com/u/15811295?v=4&s=64" width="28" height="28" alt="Checkmarx"></a>
-<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Akedacore&type=pullrequests" title="kedacore"><img src="https://avatars.githubusercontent.com/u/49917779?v=4&s=64" width="28" height="28" alt="kedacore"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Aai-dynamo&type=pullrequests" title="ai-dynamo"><img src="https://avatars.githubusercontent.com/u/201626793?v=4&s=64" width="28" height="28" alt="ai-dynamo"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Acontainerd&type=pullrequests" title="containerd"><img src="https://avatars.githubusercontent.com/u/14037953?v=4&s=64" width="28" height="28" alt="containerd"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Azitadel&type=pullrequests" title="zitadel"><img src="https://avatars.githubusercontent.com/u/70011121?v=4&s=64" width="28" height="28" alt="zitadel"></a>
@@ -140,6 +139,7 @@ Open pull requests in 24 more organisations:
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Aopenfga&type=pullrequests" title="openfga"><img src="https://avatars.githubusercontent.com/u/103602580?v=4&s=64" width="28" height="28" alt="openfga"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Aopen-telemetry&type=pullrequests" title="open-telemetry"><img src="https://avatars.githubusercontent.com/u/49998002?v=4&s=64" width="28" height="28" alt="open-telemetry"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Akubernetes-sigs&type=pullrequests" title="kubernetes-sigs"><img src="https://avatars.githubusercontent.com/u/36015203?v=4&s=64" width="28" height="28" alt="kubernetes-sigs"></a>
+<a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Akedacore&type=pullrequests" title="kedacore"><img src="https://avatars.githubusercontent.com/u/49917779?v=4&s=64" width="28" height="28" alt="kedacore"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Agrafana&type=pullrequests" title="grafana"><img src="https://avatars.githubusercontent.com/u/7195757?v=4&s=64" width="28" height="28" alt="grafana"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Acrossplane-contrib&type=pullrequests" title="crossplane-contrib"><img src="https://avatars.githubusercontent.com/u/65389701?v=4&s=64" width="28" height="28" alt="crossplane-contrib"></a>
 <a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Aopen+user%3Ajaegertracing&type=pullrequests" title="jaegertracing"><img src="https://avatars.githubusercontent.com/u/28545596?v=4&s=64" width="28" height="28" alt="jaegertracing"></a>
@@ -167,7 +167,7 @@ Open pull requests in 24 more organisations:
 </p>
 
 <details>
-<summary>All 140 projects, including 160 open pull requests</summary>
+<summary>All 139 projects, including 159 open pull requests</summary>
 
 | Project | Stars | Merged | Reviewed | Open |
 | --- | ---: | ---: | ---: | ---: |
@@ -186,7 +186,7 @@ Open pull requests in 24 more organisations:
 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | 25.9k | [2](https://github.com/pulumi/pulumi/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [5](https://github.com/pulumi/pulumi/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [argoproj/argo-events](https://github.com/argoproj/argo-events) | 2.7k | [2](https://github.com/argoproj/argo-events/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [pulumi/pulumi-kubernetes-operator](https://github.com/pulumi/pulumi-kubernetes-operator) | 294 | [2](https://github.com/pulumi/pulumi-kubernetes-operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
-| [GoogleCloudPlatform/opentelemetry-operations-collector](https://github.com/GoogleCloudPlatform/opentelemetry-operations-collector) | 85 | [2](https://github.com/GoogleCloudPlatform/opentelemetry-operations-collector/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
+| [GoogleCloudPlatform/opentelemetry-operations-collector](https://github.com/GoogleCloudPlatform/opentelemetry-operations-collector) | 86 | [2](https://github.com/GoogleCloudPlatform/opentelemetry-operations-collector/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [turbot/steampipe-mod-azure-compliance](https://github.com/turbot/steampipe-mod-azure-compliance) | 61 | [2](https://github.com/turbot/steampipe-mod-azure-compliance/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [kai-scheduler/gpu-fractioning](https://github.com/kai-scheduler/gpu-fractioning) | 59 | [2](https://github.com/kai-scheduler/gpu-fractioning/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | [4](https://github.com/kai-scheduler/gpu-fractioning/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [aws-controllers-k8s/eks-controller](https://github.com/aws-controllers-k8s/eks-controller) | 48 | [2](https://github.com/aws-controllers-k8s/eks-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
@@ -212,7 +212,7 @@ Open pull requests in 24 more organisations:
 | [aws-controllers-k8s/test-infra](https://github.com/aws-controllers-k8s/test-infra) | 26 | [1](https://github.com/aws-controllers-k8s/test-infra/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [aws-controllers-k8s/sqs-controller](https://github.com/aws-controllers-k8s/sqs-controller) | 11 | [1](https://github.com/aws-controllers-k8s/sqs-controller/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 
-<sub>…and 100 more.</sub>
+<sub>…and 99 more.</sub>
 
 </details>
 
