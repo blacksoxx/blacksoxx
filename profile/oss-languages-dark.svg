@@ -6,17 +6,17 @@
 <line x1="182" y1="56" x2="182" y2="190" stroke="#383835"/>
 <text x="170" y="67" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Go</text>
 <path d="M182,56 h182 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-182 z" fill="#3987e5"/>
-<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">19k</text>
+<text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">19.3k</text>
 <text x="170" y="97" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">YAML</text>
-<path d="M182,86 h29.0373 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-29.0373 z" fill="#3987e5"/>
-<text x="223.037" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">3.4k</text>
+<path d="M182,86 h28.4965 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-28.4965 z" fill="#3987e5"/>
+<text x="222.497" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">3.4k</text>
 <text x="170" y="127" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Markdown</text>
-<rect x="182" y="116" width="5.75924" height="14" fill="#3987e5"/>
-<text x="195.759" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">588</text>
+<rect x="182" y="116" width="5.66497" height="14" fill="#3987e5"/>
+<text x="195.665" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">588</text>
 <text x="170" y="157" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Python</text>
-<rect x="182" y="146" width="5.17156" height="14" fill="#3987e5"/>
-<text x="195.172" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">528</text>
+<rect x="182" y="146" width="5.08692" height="14" fill="#3987e5"/>
+<text x="195.087" y="157" font-size="12" font-weight="400" fill="#898781" text-anchor="start">528</text>
 <text x="170" y="187" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Shell</text>
-<rect x="182" y="176" width="2.14502" height="14" fill="#3987e5"/>
-<text x="192.145" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">219</text>
+<rect x="182" y="176" width="2.10991" height="14" fill="#3987e5"/>
+<text x="192.11" y="187" font-size="12" font-weight="400" fill="#898781" text-anchor="start">219</text>
 </svg>
