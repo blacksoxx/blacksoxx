@@ -8,8 +8,8 @@
 <path d="M182,56 h182 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-182 z" fill="#3987e5"/>
 <text x="376" y="67" font-size="12" font-weight="400" fill="#898781" text-anchor="start">19.3k</text>
 <text x="170" y="97" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">YAML</text>
-<path d="M182,86 h29.0071 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-29.0071 z" fill="#3987e5"/>
-<text x="223.007" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">3.4k</text>
+<path d="M182,86 h29.0553 a4,4 0 0 1 4,4 v6 a4,4 0 0 1 -4,4 h-29.0553 z" fill="#3987e5"/>
+<text x="223.055" y="97" font-size="12" font-weight="400" fill="#898781" text-anchor="start">3.4k</text>
 <text x="170" y="127" font-size="12" font-weight="400" fill="#c3c2b7" text-anchor="end">Markdown</text>
 <rect x="182" y="116" width="6.42609" height="14" fill="#3987e5"/>
 <text x="196.426" y="127" font-size="12" font-weight="400" fill="#898781" text-anchor="start">667</text>
