@@ -31,7 +31,7 @@
 <text x="310.917" y="194" font-size="11" font-weight="400" fill="#898781" text-anchor="middle">2 Nov</text>
 <path d="M330.5,160.15 a3,3 0 0 1 3,-3 h4.58333 a3,3 0 0 1 3,3 v15.85 h-10.5833 z" fill="#2a78d6"/>
 <path d="M343.083,113.75 a3,3 0 0 1 3,-3 h4.58333 a3,3 0 0 1 3,3 v62.25 h-10.5833 z" fill="#eb6834"/>
-<path d="M361.667,161.6 a3,3 0 0 1 3,-3 h4.58333 a3,3 0 0 1 3,3 v14.4 h-10.5833 z" fill="#2a78d6"/>
+<path d="M361.667,165.95 a3,3 0 0 1 3,-3 h4.58333 a3,3 0 0 1 3,3 v10.05 h-10.5833 z" fill="#2a78d6"/>
 <rect x="374.25" y="171.65" width="10.5833" height="4.35" fill="#eb6834"/>
 <rect x="392.833" y="173.1" width="10.5833" height="2.9" fill="#2a78d6"/>
 <text x="404.417" y="194" font-size="11" font-weight="400" fill="#898781" text-anchor="middle">23 Nov</text>
