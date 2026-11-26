@@ -29,63 +29,63 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-summary-dark.svg">
-  <img alt="Open source summary: 134 merged pull requests, 259 reviews, 130 issues opened, 57 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
+  <img alt="Open source summary: 136 merged pull requests, 259 reviews, 130 issues opened, 57 projects with merged work" src="profile/oss-summary-light.svg" width="100%">
 </picture>
 
 ### Recent merged work
 
 <p align="center">
-<a href="https://github.com/finopsfoundation/focus_validator/pull/198">
+<a href="https://github.com/finopsfoundation/focus_validator/pull/196">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/pr-1-dark.svg">
-  <img alt="finopsfoundation/focus_validator: #197 Detect data file type case-insensitively and honour --data-format for files" src="profile/pr-1-light.svg" width="49%">
+  <img alt="finopsfoundation/focus_validator: #195 Group JUnit test cases by entity and name errored cases by check type" src="profile/pr-1-light.svg" width="49%">
+</picture>
+</a>
+<a href="https://github.com/finopsfoundation/focus_validator/pull/184">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-2-dark.svg">
+  <img alt="finopsfoundation/focus_validator: #183 Apply --column-namespace when loading data" src="profile/pr-2-light.svg" width="49%">
+</picture>
+</a>
+<a href="https://github.com/finopsfoundation/focus_validator/pull/198">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-3-dark.svg">
+  <img alt="finopsfoundation/focus_validator: #197 Detect data file type case-insensitively and honour --data-format for files" src="profile/pr-3-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/finopsfoundation/focus_validator/pull/200">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-2-dark.svg">
-  <img alt="finopsfoundation/focus_validator: #199 Add a timeout to the model download" src="profile/pr-2-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-4-dark.svg">
+  <img alt="finopsfoundation/focus_validator: #199 Add a timeout to the model download" src="profile/pr-4-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/finopsfoundation/focus_validator/pull/203">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-3-dark.svg">
-  <img alt="finopsfoundation/focus_validator: #201 Skip the rules of a non-applicable column only when the column is absent" src="profile/pr-3-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-5-dark.svg">
+  <img alt="finopsfoundation/focus_validator: #201 Skip the rules of a non-applicable column only when the column is absent" src="profile/pr-5-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/finopsfoundation/focus_validator/pull/205">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-4-dark.svg">
-  <img alt="finopsfoundation/focus_validator: #204 Reject plus signs in NumericFormat values" src="profile/pr-4-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-6-dark.svg">
+  <img alt="finopsfoundation/focus_validator: #204 Reject plus signs in NumericFormat values" src="profile/pr-6-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/aws-cloudformation/cfn-lint/pull/5001">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-5-dark.svg">
-  <img alt="aws-cloudformation/cfn-lint: fix(E3684): allow an empty Matcher on non-HTTP health checks" src="profile/pr-5-light.svg" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-7-dark.svg">
+  <img alt="aws-cloudformation/cfn-lint: fix(E3684): allow an empty Matcher on non-HTTP health checks" src="profile/pr-7-light.svg" width="49%">
 </picture>
 </a>
 <a href="https://github.com/NVIDIA/k8s-device-plugin/pull/2117">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-6-dark.svg">
-  <img alt="NVIDIA/k8s-device-plugin: Allow 48 MPS clients on Volta devices" src="profile/pr-6-light.svg" width="49%">
-</picture>
-</a>
-<a href="https://github.com/kubescape/kubescape/pull/5083">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/pr-7-dark.svg">
-  <img alt="kubescape/kubescape: docs(gitlab-ci): say GitLab merges platform variants of a container finding" src="profile/pr-7-light.svg" width="49%">
-</picture>
-</a>
-<a href="https://github.com/upbound/provider-opentofu/pull/201">
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/pr-8-dark.svg">
-  <img alt="upbound/provider-opentofu: Prune .terraform/providers when checksumming the workspace" src="profile/pr-8-light.svg" width="49%">
+  <img alt="NVIDIA/k8s-device-plugin: Allow 48 MPS clients on Volta devices" src="profile/pr-8-light.svg" width="49%">
 </picture>
 </a>
 </p>
 
-<sub>[All 134 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
+<sub>[All 136 merged pull requests](https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+-user%3Ablacksoxx&type=pullrequests)</sub>
 
 ### Projects
 
@@ -99,9 +99,9 @@ Credentials are verifiable on [LinkedIn](https://www.linkedin.com/in/youssef-oma
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Aupbound&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/31934484?v=4&s=64" width="48" height="48" alt="upbound"><br><sub><b>upbound</b></sub></a><br><sub>6 merged</sub></td>
 </tr>
 <tr>
+<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Afinopsfoundation&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/64022381?v=4&s=64" width="48" height="48" alt="finopsfoundation"><br><sub><b>finopsfoundation</b></sub></a><br><sub>6 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Apulumi&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/21992475?v=4&s=64" width="48" height="48" alt="pulumi"><br><sub><b>pulumi</b></sub></a><br><sub>4 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3AGoogleCloudPlatform&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/2810941?v=4&s=64" width="48" height="48" alt="GoogleCloudPlatform"><br><sub><b>GoogleCloudPlatform</b></sub></a><br><sub>4 merged</sub></td>
-<td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Afinopsfoundation&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/64022381?v=4&s=64" width="48" height="48" alt="finopsfoundation"><br><sub><b>finopsfoundation</b></sub></a><br><sub>4 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Aargoproj&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/30269780?v=4&s=64" width="48" height="48" alt="argoproj"><br><sub><b>argoproj</b></sub></a><br><sub>2 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Aaws-cloudformation&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/19900777?v=4&s=64" width="48" height="48" alt="aws-cloudformation"><br><sub><b>aws-cloudformation</b></sub></a><br><sub>2 merged</sub></td>
 <td align="center" width="16%"><a href="https://github.com/search?q=is%3Apr+author%3Ablacksoxx+is%3Amerged+user%3Aturbot&type=pullrequests"><img src="https://avatars.githubusercontent.com/u/38865304?v=4&s=64" width="48" height="48" alt="turbot"><br><sub><b>turbot</b></sub></a><br><sub>2 merged</sub></td>
@@ -161,24 +161,24 @@ Open pull requests in 21 more organisations:
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/oss-languages-dark.svg">
-  <img alt="Lines changed by language in merged pull requests: Go 19.5k, YAML 3.4k, Python 933, Markdown 592, Shell 219, Rust 58, JSON 29, TypeScript 17, Protobuf 5, HCL 2" src="profile/oss-languages-light.svg" width="49%">
+  <img alt="Lines changed by language in merged pull requests: Go 19.5k, YAML 3.4k, Python 1.1k, Markdown 592, Shell 219, Rust 58, JSON 29, TypeScript 17, Protobuf 5, HCL 2" src="profile/oss-languages-light.svg" width="49%">
 </picture>
 </p>
 
 <details>
-<summary>All 138 projects, including 141 open pull requests</summary>
+<summary>All 138 projects, including 139 open pull requests</summary>
 
 | Project | Stars | Merged | Reviewed | Open |
 | --- | ---: | ---: | ---: | ---: |
-| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 482 | [18](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [59](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
+| [llm-d/llm-d-router](https://github.com/llm-d/llm-d-router) | 485 | [18](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [59](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/llm-d/llm-d-router/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/operator](https://github.com/kubescape/operator) | 26 | [10](https://github.com/kubescape/operator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [3](https://github.com/kubescape/operator/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [llm-d/llm-d](https://github.com/llm-d/llm-d) | 5.4k | [7](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [8](https://github.com/llm-d/llm-d/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [kubescape/storage](https://github.com/kubescape/storage) | 6 | [7](https://github.com/kubescape/storage/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [6](https://github.com/kubescape/storage/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [kubescape/kubevuln](https://github.com/kubescape/kubevuln) | 27 | [7](https://github.com/kubescape/kubevuln/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [3](https://github.com/kubescape/kubevuln/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [NVIDIA/NVSentinel](https://github.com/NVIDIA/NVSentinel) | 447 | [6](https://github.com/NVIDIA/NVSentinel/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [9](https://github.com/NVIDIA/NVSentinel/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
+| [finopsfoundation/focus_validator](https://github.com/finopsfoundation/focus_validator) | 45 | [6](https://github.com/finopsfoundation/focus_validator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [3](https://github.com/finopsfoundation/focus_validator/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [14](https://github.com/finopsfoundation/focus_validator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/helm-charts](https://github.com/kubescape/helm-charts) | 42 | [6](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [2](https://github.com/kubescape/helm-charts/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [upbound/provider-opentofu](https://github.com/upbound/provider-opentofu) | 65 | [4](https://github.com/upbound/provider-opentofu/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [3](https://github.com/upbound/provider-opentofu/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/upbound/provider-opentofu/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
-| [finopsfoundation/focus_validator](https://github.com/finopsfoundation/focus_validator) | 44 | [4](https://github.com/finopsfoundation/focus_validator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [3](https://github.com/finopsfoundation/focus_validator/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [16](https://github.com/finopsfoundation/focus_validator/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
 | [kubescape/synchronizer](https://github.com/kubescape/synchronizer) | 3 | [4](https://github.com/kubescape/synchronizer/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [3](https://github.com/kubescape/synchronizer/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | – |
 | [kai-scheduler/kai-resource-management](https://github.com/kai-scheduler/kai-resource-management) | 47 | [3](https://github.com/kai-scheduler/kai-resource-management/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | – | – |
 | [aws-cloudformation/cfn-lint](https://github.com/aws-cloudformation/cfn-lint) | 2.6k | [2](https://github.com/aws-cloudformation/cfn-lint/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Amerged) | [4](https://github.com/aws-cloudformation/cfn-lint/pulls?q=is%3Apr+reviewed-by%3Ablacksoxx+-author%3Ablacksoxx) | [1](https://github.com/aws-cloudformation/cfn-lint/pulls?q=is%3Apr+author%3Ablacksoxx+is%3Aopen) |
